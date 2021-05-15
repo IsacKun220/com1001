@@ -1,0 +1,24 @@
+#!/usr/bin/env bash
+
+if [ "$USER" = "codio" ]
+then
+  # ensure we're in the directory of this script
+  cd "${0%/*}"
+ 
+  local_bin="/usr/local/bin"
+
+  # copy scripts
+  sudo cp sinatra.rb $local_bin/sinatra
+  sudo cp kill_ruby $local_bin
+  sudo cp reset_gems $local_bin
+
+  # reset the gems on this box
+  reset_gems
+
+  # copy initial .codio file
+  cp .codio_init /home/codio/workspace/.codio
+  
+  echo "Successfully installed."
+else
+  echo "This script should only be run on Codio."
+fi

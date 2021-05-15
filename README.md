@@ -22,16 +22,33 @@ do a `git pull`!
 ### Contents of this README file
 
 1. [Introduction](#1-introduction)
-2. [Cloning and Installing this Repository](#2-cloning-and-installing-this-repository)
+2. [Cloning and Installing this
+   Repository](#2-cloning-and-installing-this-repository)
+
+. [Problems or Feedback]()
 
 ## 2. Cloning and Installing this Repository
 
-You can clone this repository at home and on Codio. The code examples will only run on Codio, however.
+You can clone this repository at home and on Codio. The code examples will only
+run on Codio, however.
 
-To clone the repository, you will need to issue the following command at the Terminal:
+To clone the repository, you will need to issue the following command at the
+Terminal:
 
 ```
 git clone https://github.com/philmcminn/com1001.git
 ```
 
 
+
+# 5. Problems or Feedback
+
+We welcome feedback including any constructive criticism or positive comments
+that you may have.
+
+If you are experiencing problems with using the repository, please contact the
+module lecturer – [Phil McMinn](https://mcminn.io). 
+
+Please note that the teaching team are limited in the help that we can offer on
+specific system setups. If you are experiencing significant difficulties, please
+use Codio, where we can give you full support if you run into problems. 

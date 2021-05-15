@@ -17,7 +17,7 @@ then
   # copy initial .codio file
   cp "${install_dir}/.codio_init" "${workspace_dir}/.codio"
   
-  echo "Successfully installed."
+  echo "\033[32mEverything successfully installed.\033[0m"
 else
-  echo "This script is for setting up Codio so that it can run the code examples. You can only run it on Codio."
+  echo "\033[31mThis script is for setting up Codio so that it can run the code examples. You can only run it on Codio.\033[0m"
 fi

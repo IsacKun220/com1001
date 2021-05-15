@@ -30,8 +30,6 @@ You can clone this repository at home and on Codio. The code examples will only 
 
 To clone the repository, you will need to issue the following command at the Terminal:
 
-``git clone https://github.com/philmcminn/com1001-code.git``
+```git clone https://github.com/philmcminn/com1001-code.git```
 
-To do this on Codio, open a Terminal ... (instructions for Codio)
 
-``com1001/.install``

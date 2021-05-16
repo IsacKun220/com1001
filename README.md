@@ -33,9 +33,11 @@ You can clone this repository at home and on Codio. The code examples will only
 run on Codio, however.
 
 To clone the repository, you will need to issue the following command at the
-Terminal:
+Terminal. (If you hover over the command, a clipboard icon will appear. If you
+click it, you can copy the command to your clipboard and then paste it into your
+terminal.)
 
-```
+```console
 git clone https://github.com/philmcminn/com1001.git
 ```
 

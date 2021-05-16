@@ -15,11 +15,12 @@ appropriate directory.
 To run an example, you will need to change to the directory of the example
 and then use the `sinatra` command, followed by the filename.
 
-For example, to run the hello_world.rb example, you would need to do:
+For example, to run the `hello_world.rb` example, you would need to open a
+Terminal and enter the following commands:
 
 ```console
-~/workspace$ cd com1001/code-examples/basics
-~/workspace$ sinatra hello_world.rb
+cd com1001/code-examples/basics
+sinatra hello_world.rb
 ```
 
 Most examples are full applications with an `app.rb` file. To run these you can

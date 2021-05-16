@@ -3,6 +3,12 @@
 This directory contains the code examples referenced in the lectures that you
 can run on Codio.
 
+### Contents of this README file
+
+1. [Running an Example]()
+2. [Which Code Examples are Discussed in Which Lectures?]()
+3. [If You Don't Like Codio...]()
+
 ## 1. Running an Example
 
 To run an example you'll need to change to the directory where it exists as a

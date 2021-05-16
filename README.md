@@ -16,34 +16,34 @@ web applications for testing; [SQLite](https://www.sqlite.org/) as a backend
 database, and [Sequel](https://sequel.jeremyevans.net/) – an Object-Relational
 Mapping framework.
 
-Files will be added to this repository every week, so ensure that you regularly
-do a `git pull`!
-
-### Contents of this README file
-
-1. [Introduction](#1-introduction)
-2. [Cloning and Installing this
-   Repository](#2-cloning-and-installing-this-repository)
-
-. [Problems or Feedback]()
-
-## 2. Cloning and Installing this Repository
-
-You can clone this repository at home and on Codio. The code examples will only
-run on Codio, however.
+## 2. Installing and Using this Repository
 
 To clone the repository, you will need to issue the following command at the
-Terminal. (If you hover over the command, a clipboard icon will appear. If you
-click it, you can copy the command to your clipboard and then paste it into your
-terminal.)
+Terminal. 
 
 ```console
 git clone https://github.com/philmcminn/com1001.git
 ```
 
+(If you hover over the command, a clipboard icon will appear. If you click it,
+you can copy the command to your clipboard and then paste it into your
+terminal.)
+
+The repository consists of three main directories:
+
+* `code-examples` contains code examples referenced in lectures. These examples
+  may also be useful to refer to when building your team projects. To get them
+  running on Codio, see the [README.md](code-examples/) in the directory.
+
+* `practicals` contains information for each week's practical session.
+
+* `slides` contains PDF copies of the slides for each week's lectures. 
 
 
-# 5. Problems or Feedback
+Files will be added to this repository every week, so ensure that you regularly
+do a `git pull`!
+
+## 3. Problems or Feedback
 
 We welcome feedback including any constructive criticism or positive comments
 that you may have.

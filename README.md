@@ -16,7 +16,7 @@ web applications for testing; [SQLite](https://www.sqlite.org/) as a backend
 database, and [Sequel](https://sequel.jeremyevans.net/) – an Object-Relational
 Mapping framework.
 
-## 2. Installing and Using this Repository
+## 2. Cloning this Repository
 
 To clone the repository, you will need to issue the following command at the
 Terminal. 

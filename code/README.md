@@ -38,7 +38,7 @@ to run these examples:
 com1001/.codio/install
 ```
 
-This may take a few seconds, so be patient!
+This may take some seconds, maybe even a minute or two, so be patient!
 
 ## 3. Running an Example
 
@@ -61,13 +61,7 @@ Terminal and enter the following commands.
 cd com1001/code/getting_started
 ```
 
-2) Install the appropriate Gems using Bundler:
-
-```console
-bundle install
-```
-
-3) Finally, run the `sinatra` command:
+2) Then run the `sinatra` command:
 
 ```console
 sinatra hello_world.rb

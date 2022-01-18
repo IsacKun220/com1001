@@ -5,8 +5,8 @@ can run on Codio.
 
 ### Contents of this README file
 
-1. [Setting up Codio](#1-running-an-example)
-2. [Setting up and Installing the Repository on Codio](#1-running-an-example)
+1. [Setting up Codio](#1-setting-up-codio)
+2. [Setting up and Installing the Repository on Codio](#2-setting-up-and-installing-the-repository-on-codio)
 3. [Running an Example](#3-running-an-example)
 4. [Which Code Examples are Discussed in Which Lectures?](#4-which-code-examples-are-discussed-in-which-lectures)
 5. [If You Don't Like Using Codio...](#5-if-you-dont-like-using-codio)
@@ -95,7 +95,7 @@ table below to help you out:
 | ------------------- | -----------|--------|
 | ``getting_started/`` | &bullet; _Getting Yourself Setup For the Spring Semester_  | Online Video |
 
-## 5. If You Don't Like Codio...
+## 5. If You Don't Like Using Codio...
 
 Of course, Sinatra applications are not tied to Codio &mdash; they can be run on 
 other platforms. However, we do not provide any support for doing that &mdash;

@@ -34,8 +34,9 @@ OPTION_VERBOSE = "v"
 OPTION_BUNDLE_INSTALL = "b"
 OPTION_PREFIX = "-"
 PORT = 4567
+PROCESS_LIST_CMD = "ps -xhopid,cmd"
 RUBY_EXTENSION = ".rb"
-SINATRA_PROCESS = "ruby /usr/local/bin/sinatra"
+SINATRA_PROCESS = "puma"
 SLEEP = 0.1
 TIMEOUT = 5
 WELCOME_MESSAGE = "STARTING SINATRA..."
@@ -219,7 +220,7 @@ unless sp_status == :refused
   this_pid = Process.pid
   killed_other_sinatra = false
   puts info("Attempting to find other Sinatra process (this process ID is #{this_pid})", 1) if verbose
-  `ps -xhopid,cmd`.split("\n").each do |process_line|
+  `#{PROCESS_LIST_CMD}`.split("\n").each do |process_line|
     match = process_line.match(/^\s*(?<pid>\S+)\s+(?<cmd>.+)$/)
     # ensure we don"t kill this process...
     next unless this_pid != match[:pid].to_i

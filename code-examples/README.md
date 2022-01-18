@@ -54,7 +54,7 @@ table below to help you out:
 ## 3. If You Don't Like Codio...
 
 Of course, Sinatra applications are not tied to Codio &mdash; they can be run on 
-other platforms. However, we do not provide any support for doing that ---
+other platforms. However, we do not provide any support for doing that &mdash;
 sorry. Codio makes it really easy for us to provide a standardised environment
 to students in which we can help with common problems. Fixing individual machine
 setups is very time consuming and our priority is helping with programming
@@ -88,7 +88,7 @@ lectures), but using port 4000.
 
 **Rating:** Slightly more endorsed, but potentially tricky to setup
 
-The second option may be more preferable – where you SSH into your Codio box
+The second option may be more preferable &mdash; where you SSH into your Codio box
 from your text editor/IDE on your own machine. This gives you the best of both
 worlds – the use of your preferred development environment, but with the ease of
 Ruby already being set up for you on Codio, and you using the same platform as

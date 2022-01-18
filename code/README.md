@@ -5,11 +5,42 @@ can run on Codio.
 
 ### Contents of this README file
 
-1. [Running an Example](#1-running-an-example)
-2. [Which Code Examples are Discussed in Which Lectures?](#2-which-code-examples-are-discussed-in-which-lectures)
-3. [If You Don't Like Using Codio...](#3-if-you-dont-like-using-codio)
+1. [Setting up Codio](#1-running-an-example)
+2. [Setting up and Installing the Repository on Codio](#1-running-an-example)
+3. [Running an Example](#3-running-an-example)
+4. [Which Code Examples are Discussed in Which Lectures?](#4-which-code-examples-are-discussed-in-which-lectures)
+5. [If You Don't Like Using Codio...](#5-if-you-dont-like-using-codio)
 
-## 1. Running an Example
+## 1. Setting up Codio
+
+First of all, you'll need to setup Codio. If this is your first time doing this,
+you might want to watch the video below, which shows you how to set up a new
+box. (It also leads you through the instructions for parts 2 and 3 of this page.)
+
+
+## 2. Setting up and Installing the Repository on Codio
+
+The first step in setting up and installing this repository is to clone it. Open
+a terminal on Codio and entering the following command:
+
+```console
+git clone https://github.com/philmcminn/com1001.git
+```
+
+(If you hover over the command, a clipboard icon will appear. If you click it,
+you can copy the command to your clipboard and then paste it into your
+terminal.)
+
+Following this, you need to run an install script to set the box up as needed
+to run these examples:
+
+```console
+com1001/.codio/install
+```
+
+This may take a few seconds, so be patient!
+
+## 3. Running an Example
 
 To run an example you'll need to change to the directory where it exists as a
 Ruby file. You'll need to ensure the appropriate gems are installed. Each
@@ -22,10 +53,23 @@ To run an example, you will need to change to the directory of the example
 and then use the `sinatra` command, followed by the filename.
 
 For example, to run the `hello_world.rb` example, you would need to open a
-Terminal and enter the following commands:
+Terminal and enter the following commands. 
+
+1) Change to the appropriate directory using the `cd` command:
 
 ```console
-cd com1001/code/getting-started
+cd com1001/code/getting_started
+```
+
+2) Install the appropriate Gems using Bundler:
+
+```console
+bundle install
+```
+
+3) Finally, run the `sinatra` command:
+
+```console
 sinatra hello_world.rb
 ```
 
@@ -38,7 +82,7 @@ point to a Sinatra application, they are not designed to be run themselves. It
 should be clear from the explanations in lectures and looking at the code itself
 which files are meant to be run and which ones are not.
 
-## 2. Which Code Examples are Discussed in Which Lectures?
+## 4. Which Code Examples are Discussed in Which Lectures?
 
 The lectures reference the code examples in this repository. The first time an
 example is mentioned, its path in the repository will be listed under the code
@@ -49,9 +93,9 @@ table below to help you out:
 
 | Examples Directory  | Lecture(s) | Week(s)|
 | ------------------- | -----------|--------|
-| ``basics/`` | &bullet; _Sinatra Basics_  | 1 |
+| ``getting_started/`` | &bullet; _Getting Started_  | 1 |
 
-## 3. If You Don't Like Codio...
+## 5. If You Don't Like Codio...
 
 Of course, Sinatra applications are not tied to Codio &mdash; they can be run on 
 other platforms. However, we do not provide any support for doing that &mdash;

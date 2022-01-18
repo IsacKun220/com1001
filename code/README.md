@@ -44,9 +44,9 @@ This may take a few seconds, so be patient!
 
 To run an example you'll need to change to the directory where it exists as a
 Ruby file. You'll need to ensure the appropriate gems are installed. Each
-directory contains a ``Gemfile`` so it is easy for you to ensure this using
+directory contains a `Gemfile` so it is easy for you to ensure this using
 [Bundler](https://bundler.io). Bundler is already installed on Codio, so you
-just need to issue a ``bundle install`` command in the terminal in the
+just need to issue a `bundle install` command in the terminal in the
 appropriate directory. 
 
 To run an example, you will need to change to the directory of the example
@@ -93,7 +93,7 @@ table below to help you out:
 
 | Examples Directory  | Lecture(s) | Week(s)|
 | ------------------- | -----------|--------|
-| ``getting_started/`` | &bullet; _Getting Started_  | 1 |
+| ``getting_started/`` | &bullet; _Getting Yourself Setup For the Spring Semester_  | Online Video |
 
 ## 5. If You Don't Like Codio...
 

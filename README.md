@@ -1,7 +1,5 @@
 # COM1001 Spring 2022
 
-## 1. Introduction
-
 Welcome! This repository code examples, practical sheets, and slides to support
 the Spring Semester of the COM1001 module "Introduction to Software Engineering"
 at the University of Sheffield.
@@ -16,7 +14,7 @@ web applications for testing; [SQLite](https://www.sqlite.org/) as a backend
 database, and [Sequel](https://sequel.jeremyevans.net/) – an Object-Relational
 Mapping framework.
 
-## 2. Cloning this Repository
+## Cloning this Repository
 
 To clone the repository, you will need to issue the following command at the
 Terminal. 
@@ -29,7 +27,7 @@ git clone https://github.com/philmcminn/com1001.git
 you can copy the command to your clipboard and then paste it into your
 terminal.)
 
-## 3. What's in this Repository
+## What's in this Repository
 
 The repository consists of three main directories:
 

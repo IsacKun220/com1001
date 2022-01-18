@@ -43,15 +43,3 @@ The repository consists of three main directories:
 
 Files will be added to this repository every week, so ensure that you regularly
 do a `git pull`!
-
-## 4. Problems or Feedback
-
-We welcome feedback including any constructive criticism or positive comments
-that you may have.
-
-If you are experiencing problems with using the repository, please contact the
-module lecturer – [Phil McMinn](https://mcminn.io). 
-
-Please note that the teaching team are limited in the help that we can offer on
-specific system setups. If you are experiencing significant difficulties, please
-use Codio, where we can give you full support if you run into problems. 

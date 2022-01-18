@@ -25,7 +25,7 @@ For example, to run the `hello_world.rb` example, you would need to open a
 Terminal and enter the following commands:
 
 ```console
-cd com1001/code-examples/basics
+cd com1001/code-examples/getting-started
 sinatra hello_world.rb
 ```
 

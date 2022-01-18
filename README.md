@@ -29,6 +29,8 @@ git clone https://github.com/philmcminn/com1001.git
 you can copy the command to your clipboard and then paste it into your
 terminal.)
 
+## 3. What's in this Repository
+
 The repository consists of three main directories:
 
 * `code-examples` contains code examples referenced in lectures. These examples
@@ -39,11 +41,10 @@ The repository consists of three main directories:
 
 * `slides` contains PDF copies of the slides for each week's lectures. 
 
-
 Files will be added to this repository every week, so ensure that you regularly
 do a `git pull`!
 
-## 3. Problems or Feedback
+## 4. Problems or Feedback
 
 We welcome feedback including any constructive criticism or positive comments
 that you may have.

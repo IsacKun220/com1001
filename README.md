@@ -33,9 +33,9 @@ terminal.)
 
 The repository consists of three main directories:
 
-* `code-examples` contains code examples referenced in lectures. These examples
+* `code` contains code examples referenced in lectures. These examples
   may also be useful to refer to when building your team projects. [Follow this
-  link for instructions on how to get them running on Codio.](code-examples/)
+  link for instructions on how to get them running on Codio.](code/)
 
 * `practicals` contains information for each week's practical session.
 

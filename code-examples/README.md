@@ -49,7 +49,7 @@ table below to help you out:
 
 | Examples Directory  | Lecture(s) | Week(s)|
 | ------------------- | -----------|--------|
-| ``basics/`` | &bullet; _Sinatra Basics_  | 2 |
+| ``basics/`` | &bullet; _Sinatra Basics_  | 1 |
 
 ## 3. If You Don't Like Codio...
 

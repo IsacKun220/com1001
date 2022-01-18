@@ -52,8 +52,8 @@ appropriate directory.
 To run an example, you will need to change to the directory of the example
 and then use the `sinatra` command, followed by the filename.
 
-For example, to run the `hello_world.rb` example, you would need to open a
-Terminal and enter the following commands. 
+For example, to run the `hello_world.rb` example in the ``getting_started``
+directory, you would need to open a Terminal and enter the following commands:
 
 1) Change to the appropriate directory using the `cd` command:
 
@@ -71,8 +71,8 @@ Most examples are full applications with an `app.rb` file. To run these you can
 just run the `sinatra` command without any arguments in the directory containing
 `app.rb`.
 
-Of course, some files form part of an application. As they are not the entry
-point to a Sinatra application, they are not designed to be run themselves. It
+Not all `.rb` files in a directory can be run, since they are a component part of an
+overall application, and not an "entry point" designed to be run themselves. It
 should be clear from the explanations in lectures and looking at the code itself
 which files are meant to be run and which ones are not.
 

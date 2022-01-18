@@ -5,4 +5,3 @@ temp.sqlite
 log/
 coverage/
 capybara-*.html
-code/_future/

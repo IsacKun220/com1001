@@ -5,4 +5,3 @@ sudo gem install rubocop
 sudo gem install rubocop-rspec
 sudo gem install rubocop-sequel
 sudo gem install puma
-sudo gem install sinatra

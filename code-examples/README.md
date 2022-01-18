@@ -74,12 +74,12 @@ a popular text editor and IDE for many languages, and may be used in a web
 browser on Codio itself. Assuming you have followed in the instructions in the
 first lecture and have everything setup in Codio, then you will have a Codio box
 already up and running. In Codio, go to "Tools", then "Install Software". Scroll
-down the list and select "VSCode". VSCode will be now available in your web
-browser for use with your Codio files. The URL you need to access it depends on
-your Codio box name. Your Codio box name is the subdomain of your Codio Box
-domain, which Codio tells you in the preamble of every Terminal session that you
-start. For example, my Terminal session tells me that my Codio box domain is
-``north-mister.codio.io``:
+down the list and select "VSCode". VSCode will be now available at a special URL
+in your web browser for use with your Codio files. The URL you need to access it
+depends on your Codio box name. Your Codio box name is the subdomain of your
+Codio Box domain, which Codio tells you in the preamble of every Terminal
+session that you start. For example, my Terminal session tells me that my Codio
+box domain is ``north-mister.codio.io``:
 
 ```
  *
@@ -103,8 +103,8 @@ lectures), but using port 4000.
 
 The second option may be more preferable &mdash; where you SSH into your Codio
 box from your text editor/IDE on your own machine. This gives you the best of
-both worlds &mdash; the use of your preferred development environment, but with the
-ease of Ruby already being set up for you on Codio, and you using the same
+both worlds &mdash; the use of your preferred development environment, but with
+the ease of Ruby already being set up for you on Codio, and you using the same
 platform as everyone else. However, you will need to navigate the instructions
 for doing this yourself &mdash; again, we are unable to provide assistance. See
 https://docs.codio.com/project/ide/boxes/#ssh-and-code-access-ssh-into-your-box.

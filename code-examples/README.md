@@ -53,9 +53,8 @@ table below to help you out:
 
 ## 3. If You Don't Like Codio...
 
-Of course, Sinatra applications are not tied to Codio --- they can be run on other platforms.
-All of the code examples are designed to be run on Codio. You can of course run
-them on any manchine, however, we do not provide any support for doing that ---
+Of course, Sinatra applications are not tied to Codio &mdash; they can be run on 
+other platforms. However, we do not provide any support for doing that ---
 sorry. Codio makes it really easy for us to provide a standardised environment
 to students in which we can help with common problems. Fixing individual machine
 setups is very time consuming and our priority is helping with programming
@@ -69,7 +68,8 @@ available to you, depending on your level of technical expertise:
 **Rating:** Pretty easy to do, especially if you followed the instructions in
 the first lecture
 
-Visual Studio Code [(VSCode)](https://code.visualstudio.com), is a popular text
+One common objection to Codio is the simple text editor. However, you can use
+Visual Studio Code [(VSCode)](https://code.visualstudio.com) on Codio. It's a popular text
 editor and IDE for many languages, and may be used in a web browser on Codio
 itself. Assuming you have followed in the instructions in the first lecture and
 have everything setup in Codio, then you will have a Codio box already up and
@@ -77,10 +77,9 @@ running. In Codio, go to "Tools", then "Install Software". Scroll down the list
 and select "VSCode". VSCode will be now available in your web browser for use
 with your Codio files. The URL you need to access it depends on your Codio box
 name. Your Codio box name is the subdomain of your Codio Box domain, which Codio
-reports in the preamble of every Terminal session that you start. For example,
+tells you in the preamble of every Terminal session that you start. For example,
 my Terminal session tells me that my Codio box domain is
-``north-mister.codio.io``. This means my box name is ``north-mister`` (perhaps
-appropriately). This means my URL for VSCode, if I installed it, would be
+``north-mister.codio.io``. This means my box name is ``north-mister``. This means my URL for VSCode, if I installed it, would be
 https://north-mister-4000.codio.io. Note that this URL is essentially the same
 as the Base URL of your web applications launched from Codio (as discussed in
 lectures), but using port 4000.
@@ -106,7 +105,7 @@ https://code.visualstudio.com/docs/remote/ssh.
 **Rating:** Not recommended
 
 Finally, you can develop everything on your own machine. However, this means you
-installing Ruby and getting everything working yourself – we are unable to
+installing Ruby and getting everything working yourself &mdash; we are unable to
 provide support for students' individual machines. While getting Ruby set up
 tends to be relatively easy on Linux on Mac machines, Windows users typically
 encounter more problems. Also, do not forget your team members on your project

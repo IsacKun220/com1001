@@ -7,7 +7,7 @@ can run on Codio.
 
 1. [Running an Example](#1-running-an-example)
 2. [Which Code Examples are Discussed in Which Lectures?](#2-which-code-examples-are-discussed-in-which-lectures)
-3. [If You Don't Like Codio...](#3-if-you-dont-like-codio)
+3. [If You Don't Like Using Codio...](#3-if-you-dont-like-using-codio)
 
 ## 1. Running an Example
 
@@ -47,25 +47,13 @@ snippet of the example on the slide.
 If you're struggling to find the lecture in which an example appears, I've provided the
 table below to help you out:
 
-| Examples Directory  | Lecture(s)                                                                                                                                                  | Week(s)                   |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------- |
-| ``basics/``         | &bullet; _Sinatra Basics_                                                                                                                                   | 2                         |
-| ``controllers/``    | &bullet; _Model View Controller (MVC)_                                                                                                                      | 3                         |
-| ``cookies/``        | &bullet; _Cookies_                                                                                                                                          | 5                         |
-| ``databases/``      | &bullet; _Databases and SQLite_                                                                                                                             | 3                         |
-| ``debugging/``      | &bullet; _Debugging_ <br /> &bullet; _Testing_                                                                                                              | 1 <br/> 1                 |
-| ``forms/``          | &bullet; _Forms: GET and POST_ <br /> &bullet; _Forms: Sanitisation and Validation_ <br /> &bullet; _Forms and Models_ <br /> &bullet; _Acceptance Testing_ | 4 <br/> 4 <br/> 4 <br/> 5 |
-| ``models/``         | &bullet; _Models_                                                                                                                                           | 3                         |
-| ``orm/``            | &bullet; _Object-Relational Mapping_                                                                                                                        | 3                         |
-| ``refactoring/``    | &bullet; _Refactoring_                                                                                                                                      | 7                         |
-| ``routes/``         | &bullet; _Advanced Routes_                                                                                                                                  | 5                         |
-| ``ruby/``           | &bullet; _Blocks_ <br /> &bullet; _Object-Relational Mapping_ (see slides on Hashes)                                                                        | 2 <br/> 3                 |
-| ``sessions/``       | &bullet; _Sessions_                                                                                                                                         | 5                         |
-| ``unit_testing/``   | &bullet; _Testing_                                                                                                                                          | 1                         |
-| ``views/``          | &bullet; _Views_                                                                                                                                            | 2                         |
+| Examples Directory  | Lecture(s) | Week(s)|
+| ------------------- | -----------|--------|
+| ``basics/`` | &bullet; _Sinatra Basics_  | 2 |
 
 ## 3. If You Don't Like Codio...
 
+Of course, Sinatra applications are not tied to Codio --- they can be run on other platforms.
 All of the code examples are designed to be run on Codio. You can of course run
 them on any manchine, however, we do not provide any support for doing that ---
 sorry. Codio makes it really easy for us to provide a standardised environment

@@ -3,6 +3,10 @@
 This directory contains the code examples referenced in the lectures that you
 can run on Codio.
 
+The first three steps are covered by the video on Blackboard on the [Getting
+Started](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset)
+page.
+
 ### Contents of this README file
 
 1. [Setting up Codio](#1-setting-up-codio)
@@ -11,11 +15,9 @@ can run on Codio.
 4. [Which Code Examples are Discussed in Which Lectures?](#4-which-code-examples-are-discussed-in-which-lectures)
 5. [If You Don't Like Using Codio...](#5-if-you-dont-like-using-codio)
 
-## 1. Setting up Codio
+## 1. Setting up a Project on Codio
 
-First of all, you'll need to setup Codio. If this is your first time doing this,
-you might want to watch the video below, which shows you how to set up a new
-box. (It also leads you through the instructions for parts 2 and 3 of this page.)
+If you've not already, you'll need to setup a Project on Codio. 
 
 
 ## 2. Setting up and Installing the Repository on Codio

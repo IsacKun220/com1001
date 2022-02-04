@@ -17,13 +17,27 @@ page.
 
 ## 1. Setting up a Project on Codio
 
-If you've not already, you'll need to setup a Project on Codio. 
+If you've not already, you'll need to setup a Project on Codio. Go to
+(https://codio.com) and click the "Sign In" link. If you don't already have a
+password, click the "Lost your password?" link and enter your university email
+address (ok, so you didn't lose it, you never had one in the first place --- but
+this is how to get one).
 
+Once signed in, click the "My Projects" link under the "BUILD" in the sidebar,
+and click the "New Project" button at the top of the page. This will let you set
+up a new virtual machine on Codio that you can use to run Ruby examples and
+develop code for the team project. On Codio, these virtual machines are more
+commonly referred to  "boxes". Under "1) Select your Starting Point" select
+"Ruby + rails". Give your project a name under "2) Add some details" ("COM1001"
+is just fine, anything is ok, so long as all your projects have unique names).
+Ensure "3) Visibility" is "Private" and "4) Select gigabox" is "Standard" and
+you're ready to create your box by clicking "Create".
 
 ## 2. Setting up and Installing the Repository on Codio
 
 The first step in setting up and installing this repository is to clone it. Open
-a terminal on Codio and entering the following command:
+a terminal in your project (the first option under "Tools" menu), and entering
+the following command:
 
 ```console
 git clone https://github.com/philmcminn/com1001.git

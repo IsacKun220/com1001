@@ -3,8 +3,8 @@
 This directory contains the code examples referenced in the lectures that you
 can run on Codio.
 
-The first three steps are covered by the video on Blackboard on the 
-<a href="https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset" target="_blank">Getting Started</a>
+*NOTE:* that the first three parts of this README are also covered in the video on Blackboard on the [Getting
+Started](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset)
 page.
 
 ### Contents of this README file

@@ -3,7 +3,7 @@
 This directory contains the code examples referenced in the lectures that you
 can run on Codio.
 
-*NOTE:* that the first three parts of this README are also covered in the video on Blackboard on the [Getting
+**NOTE:** that the first three parts of this README are also covered in the video on Blackboard on the [Getting
 Started](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset)
 page.
 
@@ -18,7 +18,7 @@ page.
 ## 1. Setting up a Project on Codio
 
 If you've not already, you'll need to setup a Project on Codio. Go to
-(https://codio.com) and click the "Sign In" link. If you don't already have a
+https://codio.com and click the "Sign In" link. If you don't already have a
 password, click the "Lost your password?" link and enter your university email
 address (ok, so you didn't lose it, you never had one in the first place &mdash;
 but this is how to get one).

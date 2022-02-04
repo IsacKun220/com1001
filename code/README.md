@@ -20,8 +20,8 @@ page.
 If you've not already, you'll need to setup a Project on Codio. Go to
 (https://codio.com) and click the "Sign In" link. If you don't already have a
 password, click the "Lost your password?" link and enter your university email
-address (ok, so you didn't lose it, you never had one in the first place --- but
-this is how to get one).
+address (ok, so you didn't lose it, you never had one in the first place &mdash;
+but this is how to get one).
 
 Once signed in, click the "My Projects" link under the "BUILD" in the sidebar,
 and click the "New Project" button at the top of the page. This will let you set

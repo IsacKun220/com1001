@@ -104,8 +104,7 @@ table below to help you out:
 | Examples Directory  | Lecture(s) | Week(s)|
 | ------------------- | -----------|--------|
 | ``basics/`` | &bullet; [Sinatra Basics](../slides/1-3-sinatra-basics.pdf)  | 1 |
-| ``getting_started/`` | &bullet; [Sinatra Basics](../slides/1-3-sinatra-basics.pdf) | 1 |
-|| &bullet; | 1 |
+| ``getting_started/`` | &bullet; [Getting Codio Setup for the Spring Semester](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset) <br /> &bullet; [Sinatra Basics](../slides/1-3-sinatra-basics.pdf) | 1 <br /> 1 |
 
 ## 5. If You Don't Like Using Codio...
 

@@ -103,7 +103,7 @@ table below to help you out:
 
 | Examples Directory  | Lecture(s) | Week(s)|
 | ------------------- | -----------|--------|
-| ``basics/`` | &bullet; [Sinatra Basics](../blob/main/slides/1-3-sinatra-basics.pdf)  | 1 |
+| ``basics/`` | &bullet; [Sinatra Basics](../slides/1-3-sinatra-basics.pdf)  | 1 |
 | ``getting_started/`` | &bullet; _Getting Yourself Setup For the Spring Semester_  | Online Video |
 
 ## 5. If You Don't Like Using Codio...

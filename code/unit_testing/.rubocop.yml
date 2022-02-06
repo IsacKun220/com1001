@@ -1,0 +1,28 @@
+require: rubocop-rspec
+
+AllCops:
+  NewCops: enable
+
+Metrics/AbcSize:
+  IgnoredMethods: ["classify"]
+
+Metrics/CyclomaticComplexity:
+  IgnoredMethods: ["classify"]  
+
+Metrics/BlockLength:
+  IgnoredMethods: ["describe", "context", "classify"]
+
+Metrics/MethodLength:
+  IgnoredMethods: ["classify"]
+
+Metrics/PerceivedComplexity:
+  IgnoredMethods: ["classify"]
+
+RSpec/MissingExampleGroupArgument:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/StringLiterals:
+  Enabled: false

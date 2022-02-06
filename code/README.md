@@ -103,6 +103,7 @@ table below to help you out:
 
 | Examples Directory  | Lecture(s) | Week(s)|
 | ------------------- | -----------|--------|
+| ``basics/`` | &bullet; _An Introduction to Web Application Development_  | 1 |
 | ``getting_started/`` | &bullet; _Getting Yourself Setup For the Spring Semester_  | Online Video |
 
 ## 5. If You Don't Like Using Codio...

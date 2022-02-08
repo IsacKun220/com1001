@@ -73,7 +73,7 @@ following steps:
 
     e. On the next page, entitled "What's the name of your company or team", set
     the team name to "ise22team**XX**" where **XX** is your two-digit team
-    number (e.g., "ise21team01". Note the two digits — if your team number is
+    number (e.g., "ise22team01". Note the two digits — if your team number is
     between 1-9, you'll need to add a leading zero.
 
     f. Skip the next page "Let's find the people that you work with most" –
@@ -110,7 +110,7 @@ board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=
 on the COM1001 Blackboard page.
 
 3. Your team's messaging service will now be available at
-https://ise21teamXX.slack.com. 
+https://ise22teamXX.slack.com. 
 
 4. Each team member should respond to their invitation to join the team,
 via their email. 

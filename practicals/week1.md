@@ -98,6 +98,8 @@ following steps:
     Lab) Demonstrators" and find your demonstrator and their email address. If,
     during the week, you need some help, you can message your demonstrator and
     they will endeavour to help at the earliest convenient opportunity.
+    Note that the demonstrators are students too, so they may not always be
+    able to help if they have their own assignments that are imminently due.
 
     j. Now you can click "Add teammates".
 

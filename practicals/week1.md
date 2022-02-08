@@ -10,7 +10,7 @@ lose your place in it right-click links and select "Open in New Tab" or similar.
 2. [Getting the Most out of Slack](#2-getting-the-most-out-of-slack)
 3. [Integration with Git](#3-integration-with-git)
 4. [Customizing Slack and Adding Useful Features](#4-customizing-slack-and-adding-useful-features)
-5. [Homework for Week 1](5-setup-your-codio-box-and-clone-your-teams-project-repository)
+5. [Setup Your Codio Box and Clone your Team's Project Repository](5-setup-your-codio-box-and-clone-your-teams-project-repository) (Homework if you don't reach this Step)
 
 # 1. Setting up Slack in Your Team
 

@@ -1,13 +1,11 @@
 #!/usr/bin/env ruby
-
-###############################################################
-#                                                             #
-# Sinatra wrapper script                                      #
-# by Phil McMinn, 2021. Version: 0.2                          #
-#                                                             #
-# Enable students to start, stop, and use Sinatra more easily #
-#                                                             #
-###############################################################
+                                                         
+# Sinatra wrapper script                                     
+# by Phil McMinn, 2021.                                      
+#                                                            
+# Enable students to start, stop, and use Sinatra more easily
+#
+# 0.3 - 9/2/2022 - Updated to use Puma as the web server     
 
 require "socket"
 
@@ -34,9 +32,10 @@ OPTION_VERBOSE = "v"
 OPTION_BUNDLE_INSTALL = "b"
 OPTION_PREFIX = "-"
 PORT = 4567
-PROCESS_LIST_CMD = "ps -xhopid,cmd"
+PROCESS_LIST_CMD = "ps -xhopid,cmd" 
 RUBY_EXTENSION = ".rb"
-SINATRA_PROCESS = "puma"
+SINATRA_PROCESS = "puma" # This is when using Puma as the webserver. 
+# SINATRA_PROCESS = "ruby /usr/local/bin/sinatra" # Different webservers have different server names.
 SLEEP = 0.1
 TIMEOUT = 5
 WELCOME_MESSAGE = "STARTING SINATRA..."

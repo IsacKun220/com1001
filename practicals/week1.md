@@ -170,11 +170,14 @@ If you go back and click the down arrow again, and this time select "Customize
 ..." under "Settings & Administration", you can customize other aspects of
 Slack – like creating your own emojis, change loading messages etc.
 
-# 5. Homework for Week 1
 
-If there's no time left in the session, your homework for next week – if you
-haven't done it already – is to get your personal Codio project (box) set up and
+# 5. Setup Your Codio Box and Clone your Team's Project Repository
+
+If you haven't done it already, get your personal Codio project (box) set up and
 install the COM1001 repository on it, and then your team's repository as per the
 instructions on the "[Getting
 Started](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset)"
 page on Blackboard. 
+
+** If you don't get time to do this step in the lab, then you need to do it as 
+homework for next week **

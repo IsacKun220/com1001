@@ -10,7 +10,7 @@ lose your place in it right-click links and select "Open in New Tab" or similar.
 2. [Getting the Most out of Slack](#2-getting-the-most-out-of-slack)
 3. [Integration with Git](#3-integration-with-git)
 4. [Customizing Slack and Adding Useful Features](#4-customizing-slack-and-adding-useful-features)
-5. [Homework for Week 1](#5-homework-for-week-1)
+5. [Homework for Week 1](5-setup-your-codio-box-and-clone-your-teams-project-repository)
 
 # 1. Setting up Slack in Your Team
 
@@ -179,5 +179,5 @@ instructions on the "[Getting
 Started](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset)"
 page on Blackboard. 
 
-** If you don't get time to do this step in the lab, then you need to do it as 
-homework for next week **
+**If you don't get time to do this step in the lab, then you need to do it as 
+homework for next week.**

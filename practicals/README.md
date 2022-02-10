@@ -1,3 +1,9 @@
 # Practicals
 
-You will find details of the practical sessions in this directory, in MarkDown format.
+You will find details of the practical sessions in this directory.
+
+The files are named `[WEEK].md` where `[WEEK]` is the week of the practical session.
+
+| Week | Topic |
+| ---- | ----- |
+| 1    | [Getting Everything Setup](week1.md)|

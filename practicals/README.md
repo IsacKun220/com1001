@@ -7,3 +7,5 @@ The files are named `[WEEK].md` where `[WEEK]` is the week of the practical sess
 | Week | Topic |
 | ---- | ----- |
 | 1    | [Getting Everything Setup](week1.md)|
+| 2    | [Starting to Develop Your Team Web Application](week2.md)|
+

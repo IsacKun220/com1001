@@ -1,32 +1,11 @@
-<%
-$yy = "22"
-
-$bb_main_url = ""
-$bb_discussion_board_url = "https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view"
-$bb_teaching_team_url = "https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5719118_1&course_id=_96428_1&mode=reset"
-$bb_getting_started_url = "https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset"
-
-$slack_webhook_url = "https://my.slack.com/services/new/incoming-webhook"
-$slack_getting_started_url = "https://slack.com/get-started"
-$webhook_email = "support@shefcompsci.org.uk"
-
-%>
-
-# Week 1 Practical Session — Getting Everything Setup
+# Week 1: Getting Everything Setup
 
 In this practical session, you'll be setting up an important means of
 communication for your team in the form of the Slack app. 
 
-**Note** that all links in this document open in the _same_ window — so you
-don't lose your place in it right-click links and select "Open in New Tab" or
-similar.  
-
-1. [Setting up Slack in Your Team](#1-setting-up-slack-in-your-team)
-2. [Getting the Most out of Slack](#2-getting-the-most-out-of-slack)
-3. [Integration with Git](#3-integration-with-git)
-4. [Customizing Slack and Adding Useful
-   Features](#4-customizing-slack-and-adding-useful-features)
-5. [Homework for Week 1](#5-homework-for-week-1)
+**Note** depending on how you're viewing this file, the links in the
+document may open in the _same_ window. So you don't lose your place in it,
+right-click links and select "Open in New Tab" or similar.  
 
 # 1. Setting up Slack in Your Team
 
@@ -143,10 +122,10 @@ setting up a few "channels". You could have ones for the development of
 different features in your application, for example, or channels for different
 activities. You can do this by clicking "Add Channels" in the lefthand sidebar.
 
-You can alert certain people to a message by including their username prefixing
-with the `@` symbol (for example, `@andrewstratton Have you pushed the code
-yet?`. Everyone in a channel can be alerted with `@channel` (e.g, `@channel Hi
-everyone!`).
+You can alert certain people to a message by including their username  prefixing
+with the `@` symbol (a bit like Twitter, for example `@andrewstratton Have you
+pushed the code yet?`. Everyone in a channel can be alerted with `@channel`
+(e.g, `@channel Hi everyone!`).
 
 If you set up channels, ensure that your supervisor has been added to them,
 otherwise your chats will be invisible to them, defeating the point of including
@@ -161,7 +140,7 @@ One very useful feature is the ability to be notified by your Git repository of
 when somebody pushes to it.
 
 We can do this for you. Each team (again, nominate one individual to do this)
-needs to create a webhook in Slack (<%=$slack_webhook_url%>) then send an email
+needs to create a webhook in Slack (https://my.slack.com/services/new/incoming-webhook) then send an email
 to `support@shefcompsci.org.uk` with the subject "COM1001 team XX webhook", and
 the Webhook URL in the body. This appears under "Setup instructions" once you
 have selected a channel for the notifications to be sent to. I'd advise you
@@ -179,6 +158,7 @@ integrate Google apps, including Google Calendar, which will alert you to events
 in your calendar. For example, you could set up a Google Calendar for your team
 to schedule your team's activities (e.g., meetings), and be automatically
 notified of impending events via Slack.
+
 
 If you go back and click the down arrow again, and this time select "Customize
 ..." under "Settings & Administration", you can customize other aspects of Slack

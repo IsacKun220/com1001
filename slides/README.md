@@ -14,5 +14,5 @@ The PDF files are named `[WEEK]-[NO]-[TOPIC].pdf` where `[WEEK]` is the week of 
 | 2    | Ruby Blocks | [2-1-blocks.pdf](2-1-blocks.pdf) |
 | 2    | Views | [2-2-views.pdf](2-2-views.pdf) |
 | 2    | MVC | [2-3-mvc.pdf](2-3-mvc.pdf) |
-| 2    | Forms, GET and POST | [2-4-forms-get-and-post.pdf](2-4-forms-get-and-post.pdf) |
+| 2    | Forms, get and post | [2-4-forms-get-and-post.pdf](2-4-forms-get-and-post.pdf) |
 | 2    | Forms: Sanitising and Validating User Inputs | [2-5-forms-sanitising-and-validating.pdf](2-5-forms-sanitising-and-validating.pdf) |

@@ -34,8 +34,8 @@ OPTION_PREFIX = "-"
 PORT = 4567
 PROCESS_LIST_CMD = "ps -xhopid,cmd" 
 RUBY_EXTENSION = ".rb"
-SINATRA_PROCESS = "puma" # This is when using Puma as the webserver. 
-# SINATRA_PROCESS = "ruby /usr/local/bin/sinatra" # Different webservers have different server names.
+SINATRA_PROCESS = "puma" # This is to identify the Sinatra process when using Puma as the webserver. 
+# SINATRA_PROCESS = "ruby /usr/local/bin/sinatra" # Different webservers have different process "signatures" - this is for thin.
 SLEEP = 0.1
 TIMEOUT = 5
 WELCOME_MESSAGE = "STARTING SINATRA..."
@@ -50,7 +50,7 @@ def centre(str)
 end
 
 def hostname
-  # Prefer the value in Codio"s environment variable...
+  # Prefer the hostname value in Codio's environment variable...
   hostname = ENV["hostname"]
   return hostname unless hostname.nil?
 
@@ -94,7 +94,7 @@ def running_on_codio?
 end
 
 def quit(problem, suggestion = nil)
-  puts info("#{EMPH_YELLOW}ABORTING – A serious problem occurred:#{EMPH_END}")
+  puts info("#{EMPH_YELLOW}ABORTING - A serious problem occurred:#{EMPH_END}")
   puts info("#{EMPH_RED}Problem:#{EMPH_END} #{problem}", 1)
   puts info("#{EMPH_GREEN}Suggestion:#{EMPH_END} #{suggestion}", 1) if suggestion
   puts footer
@@ -121,7 +121,7 @@ end
 
 # Write JSON file that controls run and view menus on Codio
 def write_codio_file(url = nil)
-  preview = "\"No view – Sinatra not running\": \"\""
+  preview = "\"No view - Sinatra not running\": \"\""
   preview = %("View": "#{url}") unless url.nil?
   config_contents = <<~JSON
     {
@@ -139,7 +139,7 @@ end
 # Announce the starting of the script
 puts header
 
-# Check we"re on Codio, this script is designed to work there only
+# Check we're running on Codio, this script is designed to work there only
 problem = "This command will only work with Codio"
 suggestion = "Use Codio rather than your own machine. There are ways in which you can still make the most " \
              "of your machine while still using Codio - talk to a member of staff if you are not aware of these."
@@ -210,7 +210,7 @@ end
 # Clear out the arguments, otherwise Sinatra will try to use them
 ARGV.clear
 
-# Kill off existing Sinatra process, if there is one
+# Kill off the existing Sinatra process, if there is one
 sp_status = sinatra_port_status
 unless sp_status == :refused
   puts info("Another process is running on port #{PORT}...") if verbose
@@ -224,7 +224,7 @@ unless sp_status == :refused
     # ensure we don"t kill this process...
     next unless this_pid != match[:pid].to_i
 
-    # ensure the proess was started by this script
+    # ensure the process was started by this script
     next unless match[:cmd].start_with?(SINATRA_PROCESS)
 
     puts info("Killing process #{match[:pid]}", 2) if verbose
@@ -258,7 +258,7 @@ unless sp_status == :refused
   end
 end
 
-# Do a bundle install, if request and there's a Gemfile in this directory
+# Do a bundle install, if requested (via the -b switch), and if there's a Gemfile in this directory
 if do_bundle_install
   if File.file?("Gemfile")
     puts info("Running bundler...")

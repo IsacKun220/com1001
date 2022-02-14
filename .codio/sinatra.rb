@@ -1,11 +1,11 @@
 #!/usr/bin/env ruby
-                                                         
-# Sinatra wrapper script                                     
-# by Phil McMinn, 2021.                                      
-#                                                            
+
+# Sinatra wrapper script
+# by Phil McMinn, 2021.
+#
 # Enable students to start, stop, and use Sinatra more easily
 #
-# 0.3 - 9/2/2022 - Updated to use Puma as the web server     
+# 0.3 - 9/2/2022 - Updated to use Puma as the web server
 
 require "socket"
 
@@ -16,12 +16,12 @@ EMPH_ITALIC = "\033[3m"
 EMPH_UNDERLINE = "\033[4m"
 EMPH_BLUE = "\033[34m"
 EMPH_BROWN = "\033[33m"
-EMPH_CYAN = "\033[36m"   
-EMPH_END = "\033[0m"     
-EMPH_GREEN = "\033[32m"  
-EMPH_GREY = "\033[37m"  
-EMPH_MAGENTA = "\033[35m"  
-EMPH_RED = "\033[31m"    
+EMPH_CYAN = "\033[36m"
+EMPH_END = "\033[0m"
+EMPH_GREEN = "\033[32m"
+EMPH_GREY = "\033[37m"
+EMPH_MAGENTA = "\033[35m"
+EMPH_RED = "\033[31m"
 EMPH_YELLOW = "\033[33m"
 HOME_DIR = "/home/codio/"
 HOME_DIR_SHORT = "~/"
@@ -32,9 +32,9 @@ OPTION_VERBOSE = "v"
 OPTION_BUNDLE_INSTALL = "b"
 OPTION_PREFIX = "-"
 PORT = 4567
-PROCESS_LIST_CMD = "ps -xhopid,cmd" 
+PROCESS_LIST_CMD = "ps -xhopid,cmd"
 RUBY_EXTENSION = ".rb"
-SINATRA_PROCESS = "puma" # This is to identify the Sinatra process when using Puma as the webserver. 
+SINATRA_PROCESS = "puma" # This is to identify the Sinatra process when using Puma as the webserver.
 # SINATRA_PROCESS = "ruby /usr/local/bin/sinatra" # Different webservers have different process "signatures" - this is for thin.
 SLEEP = 0.1
 TIMEOUT = 5
@@ -199,7 +199,7 @@ else
     problem = "There is no Ruby file to run."
     suggestion = "Create an \"app.rb\" file in this directory (#{format_dir(Dir.pwd)}), and run the sinatra command again, " \
                  "or, supply a filename like this: \"sinatra file.rb\"."
-  else 
+  else
     problem = "The file \"#{user_ruby_file}\" does not exist."
     suggestion = "Create the file \"#{user_ruby_file}\" in this directory (#{format_dir(Dir.pwd)}), and run this " \
                  "command again, or, create a file named \"app.rb\" and run the sinatra command with no filename supplied."

@@ -1,5 +1,18 @@
 # COM1001 Spring Semester: Frequently Asked Questions (FAQ)
 
+#### 0. My problem/question is not listed below. What should I do?
+
+* Post a question in the appropriate forum in the [Discussion
+  Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
+  on Blackboard.
+
+* Ask your demonstrator via Slack, or in person if you're reading this in a lab
+  class. 
+
+* Although staff emails are listed on Blackboard, please only use these as a
+last resort. 
+
+
 #### 1. When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
 This is because you haven't cloned this repository yet on Codio and haven't run
@@ -52,14 +65,4 @@ Other possible reasons:
   contact one of the teaching staff.
 
 
-#### My problem/question is not listed above. What should I do?
 
-* Post a question in the appropriate forum in the [Discussion
-  Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
-  on Blackboard.
-
-* Ask your demonstrator via Slack, or in person if you're reading this in a lab
-  class. 
-
-* Although staff emails are listed on Blackboard, please only use these as a
-last resort. 

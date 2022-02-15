@@ -61,7 +61,7 @@ Copy somebody's blank application into your project directory (you can do this
 by right clicking in the filetree on Codio), commit and push it. Well done,
 you've officially started your project! 
 
-### 6. Forms and Querystrings
+### 6. Forms and Query Strings
 
 On your own, try to write a simple Sinatra application that handles a form, like
 the examples covered in lectures. Complete the following tasks:
@@ -81,12 +81,13 @@ the examples covered in lectures. Complete the following tasks:
    checks.) Ensure your view properly reports errors to the user if one or both
    of the fields is not entered correctly. 
 
-4. Add some tests so that you can automatically check whether your
-   forms are functioning correctly. 
+4. Add some tests so that you can automatically check whether your forms are
+   functioning correctly. 
 
 5. Finally, try to achieve the same effect as the `get` form submission by
-   programming a view with a link where the URL has a querystring that encodes
-   two values corresponding to each field of the form. Again, if you're unsure, consult the lecture slides. If you're still unsure, ask your demonstrator!
+   programming a view with a link where the URL has a query string that encodes
+   two values corresponding to each field of the form. Again, if you're unsure,
+   consult the lecture slides. If you're still unsure, ask your demonstrator!
 
 ### 7. Meeting Schedule
 

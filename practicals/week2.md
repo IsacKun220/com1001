@@ -35,7 +35,7 @@ Take some of your key stories and discuss:
 
 ### 3. Ensure everyone in the team is capable of setting up and running a blank Sinatra application (i.e., initially, one that contains little to no code). 
 
-This should have all  the directories as per the structure mentioned in
+This should have all the directories as per the structure mentioned in
 lectures. Make sure that: 
 
 * You can successfully set up two or more routes, and can get them working
@@ -44,6 +44,12 @@ lectures. Make sure that:
 
 * You can get one or more views to display images, and use a CSS file placed in
   (or, ideally, in subdirectories of) the `public` directory of the application
+
+* That each directory has at least one file. This is because Git will ignore
+  empty directories, and so your intended directory structure will get lost. If
+  you have no files to add to a directory right now, just add a `README.md`
+  file, with one or two sentences explaining what the directory will eventually
+  contain.
 
 ### 4. Responsibilities 
 
@@ -55,11 +61,17 @@ testing, another just doing the views and so on. You may, however, want to
 assign someone as "quality control" for each of those aspects, making sure they
 get done. 
 
-### 5. Initial Commit, Push 
+### 5. Initial Commit and Push 
 
 Copy somebody's blank application into your project directory (you can do this
 by right clicking in the filetree on Codio), commit and push it. Well done,
 you've officially started your project! 
+
+Note again, however, that Git will ignore empty directories. So ensure you have
+at least one file in each one, as instructed in Part 3 (e.g., by adding a
+`README.md` file).
+
+Now: can each member do a pull and get the latest version of the project?
 
 ### 6. Forms and Query Strings
 

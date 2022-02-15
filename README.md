@@ -7,10 +7,10 @@ the Spring Semester of the COM1001 module "Introduction to Software Engineering"
 at the University of Sheffield.
 
 The lecture content of the Spring Semester focuses on Web Application
-Development and Testing using [Ruby](https://www.ruby-lang.org/) and a framework
-called [Sinatra](http://sinatrarb.com/). We will be learning
-[RSpec](https://rspec.info/) to write tests. We will also be using other
-technologies along the way, including
+Development and Testing using [Ruby](https://www.ruby-lang.org/) and a "domain
+specific language" (DSL) called [Sinatra](http://sinatrarb.com/). We will be
+learning [RSpec](https://rspec.info/) to write tests. We will also be using
+other technologies along the way, including
 [Capybara](https://teamcapybara.github.io/capybara/) to automatically drive our
 web applications for testing; [SQLite](https://www.sqlite.org/) as a backend
 database, and [Sequel](https://sequel.jeremyevans.net/) – an Object-Relational

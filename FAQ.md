@@ -54,8 +54,8 @@ Other possible reasons:
 
 ### My problem/question is not listed here. What should I do?
 
-* Post a question in the appropriate forum in the (Discussion
-  Board)[https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view]
+* Post a question in the appropriate forum in the [Discussion
+  Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
   on Blackboard.
 
 * Ask your demonstrator via Slack, or in person if you're reading this in a lab

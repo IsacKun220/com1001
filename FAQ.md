@@ -44,7 +44,13 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the
 material from the Autumn Semester (in particular, see Unit 7: Ruby Gems). You
 can also try Google of course for more information.
 
-### 3. I cannot clone my team's repository.
+### 3. When I try to run one of the examples, or my own code, Codio gives me a "502 Bad Gateway" error.
+
+This is likely because you're not using the `sinatra` command to run your code
+and using the `ruby` command instead. Make sure you're using the `sinatra`
+command!
+
+### 4. I cannot clone my team's repository.
 
 This is probably because you did not set up GitLab with your Codio SSH keys last
 semester. That is, you didn't complete both parts of Unit 8, which is about Git.

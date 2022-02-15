@@ -1,6 +1,8 @@
-# COM1001 Spring Semester: Frequently Asked Questions (FAQ)
+# Technical FAQ
 
-#### 0. My problem/question is not listed below. What should I do?
+### 0. My problem/question is not listed below. What should I do?
+
+* For questions about the assignment, check the [Assignment FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset) on Blackboard.
 
 * Post a question in the appropriate forum in the [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
@@ -13,7 +15,7 @@
   as a *last resort*. 
 
 
-#### 1. When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
+### 1. When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
 Have you cloned this repository on Codio? If you did, you haven't run the
 `install` script yet to set up your Codio box. See the instructions in the
@@ -22,7 +24,7 @@ do this. It's also covered in the video on the [Getting
 Started](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset)
 page on Blackboard.
 
-#### 2. When I try to run one of the examples from the lectures in the `code` directory of this repository, it crashes with an error.
+### 2. When I try to run one of the examples from the lectures in the `code` directory of this repository, it crashes with an error.
 
 This is because you need to install the gems for the example first. In the
 terminal, ensure you have changed directory to the one containing the example,
@@ -39,7 +41,7 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the
 material from the Autumn Semester (in particular, see Unit 7: Ruby Gems). You
 can also try Google of course for more information.
 
-#### 3. I cannot clone my team's repository.
+### 3. I cannot clone my team's repository.
 
 This is probably because you did not set up GitLab with your Codio SSH keys last
 semester. That is, you didn't complete both parts of Unit 8, which is about Git.

@@ -10,8 +10,8 @@ do this.
 #### 2. When I try to run one of the examples from the lectures in the `code` directory of this repository, it crashes with an error.
 
 This is because you need to install the gems for the example first. In the
-terminal, ensure you have changed directory to the one containing the
-example,and type the following:
+terminal, ensure you have changed directory to the one containing the example,
+and type the following:
 
 ```
 bundle install
@@ -46,6 +46,7 @@ Other possible reasons:
 * You're trying to clone another team's repository. Check your team number!
 
 * There's been an administrative error, and you don't have the necessary
-  permissions to clone your team's repository. This is the unlikeliest of
-  possibilities, so check you have done all of the above first. If you're still
-  experiencing problems, contact one of the teaching staff. 
+  permissions to clone your team's repository. This is the most unlikeliest of
+  the possibilities, so check you have done all of the above first. However, it
+  does happen from time to time, so if you're still experiencing problems,
+  contact one of the teaching staff.

@@ -9,8 +9,8 @@
 * Ask your demonstrator via Slack, or in person if you're reading this in a lab
   class. 
 
-* Although staff emails are listed on Blackboard, please only use these as a
-last resort. 
+* Although staff email addresses are listed on Blackboard, please only use these
+  as a *last resort*. 
 
 
 #### 1. When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.

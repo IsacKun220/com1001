@@ -63,5 +63,7 @@ Other possible reasons:
 * There's been an administrative error, and you don't have the necessary
   permissions to clone your team's repository. This is the most unlikeliest of
   the possibilities, so check you have done all of the above first. However, it
-  does happen from time to time, so if you're still experiencing problems,
-  contact one of the teaching staff.
+  does happen from time to time, so if you're still experiencing problems, this
+  is one of the few occasions where you can [send me (Phil McMinn) an
+  email](mailto:p.mcminn@sheffield.ac.uk). Make sure you that you include your
+  Sheffield computer account username in the body of the email.

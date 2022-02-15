@@ -50,3 +50,16 @@ Other possible reasons:
   the possibilities, so check you have done all of the above first. However, it
   does happen from time to time, so if you're still experiencing problems,
   contact one of the teaching staff.
+
+
+### My problem/question is not listed here. What should I do?
+
+* Post a question in the appropriate forum in the (Discussion
+  Board)[https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view]
+  on Blackboard.
+
+* Ask your demonstrator via Slack, or in person if you're reading this in a lab
+  class. 
+
+* Although staff emails are listed on Blackboard, please only use these as a
+last resort. 

@@ -43,3 +43,9 @@ The repository consists of three main directories:
 
 Files will be added to this repository every week, so ensure that you regularly
 do a `git pull`!
+
+## 4. Problems or Issues?
+
+Check out the (FAQ)[FAQ.md]. The FAQ tells you what to do if your
+problem/question is not listed there. Although staff emails are listed on
+Blackboard, please only use these as a last resort. 

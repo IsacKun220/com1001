@@ -51,17 +51,7 @@ lectures. Make sure that:
   file, with one or two sentences explaining what the directory will eventually
   contain.
 
-### 4. Responsibilities 
-
-Start to decide how you're going to divide responsibility up for different parts
-or aspects of the project. For example, who will be in charge of which stories?
-**Make sure that each person has tasks that involve all aspects of development**
-– i.e., that you don't have one or two people just programming, another just
-testing, another just doing the views and so on. You may, however, want to
-assign someone as "quality control" for each of those aspects, making sure they
-get done. 
-
-### 5. Initial Commit and Push 
+### 4. Initial Commit, Push, and Pull
 
 Copy somebody's blank application into your project directory (you can do this
 by right clicking in the filetree on Codio), commit and push it. Well done,
@@ -72,6 +62,16 @@ at least one file in each one, as instructed in Part 3 (e.g., by adding a
 `README.md` file).
 
 Now: can each member do a pull and get the latest version of the project?
+
+### 5. Responsibilities 
+
+Start to decide how you're going to divide responsibility up for different parts
+or aspects of the project. For example, who will be in charge of which stories?
+**Make sure that each person has tasks that involve all aspects of development**
+– i.e., that you don't have one or two people just programming, another just
+testing, another just doing the views and so on. You may, however, want to
+assign someone as "quality control" for each of those aspects, making sure they
+get done. 
 
 ### 6. Forms and Query Strings
 

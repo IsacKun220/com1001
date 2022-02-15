@@ -24,7 +24,7 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the
 material from the Autumn Semester (in particular, see Unit 7: Ruby Gems). You
 can also try Google of course for more information.
 
-### 3. I cannot clone my team's repository.
+#### 3. I cannot clone my team's repository.
 
 This is probably because you did not set up GitLab with your Codio SSH keys last
 semester. That is, you didn't complete both parts of Unit 8, which is about Git.
@@ -52,7 +52,7 @@ Other possible reasons:
   contact one of the teaching staff.
 
 
-### My problem/question is not listed here. What should I do?
+#### My problem/question is not listed above. What should I do?
 
 * Post a question in the appropriate forum in the [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)

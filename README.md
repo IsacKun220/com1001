@@ -46,6 +46,6 @@ do a `git pull`!
 
 ## 4. Problems or Issues?
 
-Check out the (FAQ)[FAQ.md]. The FAQ tells you what to do if your
+Check out the [technical FAQ](FAQ.md). The FAQ tells you what to do if your
 problem/question is not listed there. Although staff emails are listed on
 Blackboard, please only use these as a last resort. 

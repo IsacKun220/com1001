@@ -2,14 +2,17 @@
 
 ### 0. My problem/question is not listed below. What should I do?
 
-* For questions about the assignment, check the [Assignment FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset) on Blackboard.
+* For questions about the assignment, check the [Assignment
+  FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
+  on Blackboard.
 
 * Post a question in the appropriate forum in the [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
-  on Blackboard.
+  on Blackboard. (This is the preferred route for general questions.)
 
 * Ask your demonstrator via Slack, or in person if you're reading this in a lab
-  class. 
+  class. (This is the preferred route for specific technical questions about
+  your team project.)
 
 * Although staff email addresses are listed on Blackboard, please only use these
   as a *last resort*. 

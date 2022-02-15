@@ -15,10 +15,12 @@
 
 #### 1. When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
-This is because you haven't cloned this repository yet on Codio and haven't run
-the `install` script yet to set up your Codio box. See the instructions in the
+Have you cloned this repository on Codio? If you did, you haven't run the
+`install` script yet to set up your Codio box. See the instructions in the
 [README.md file in the `code` directory of this repository](code/) as to how to
-do this.
+do this. It's also covered in the video on the [Getting
+Started](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset)
+page on Blackboard.
 
 #### 2. When I try to run one of the examples from the lectures in the `code` directory of this repository, it crashes with an error.
 
@@ -63,6 +65,3 @@ Other possible reasons:
   the possibilities, so check you have done all of the above first. However, it
   does happen from time to time, so if you're still experiencing problems,
   contact one of the teaching staff.
-
-
-

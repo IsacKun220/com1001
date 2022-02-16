@@ -20,7 +20,7 @@ page.
 If you've not already, you'll need to setup a Project on Codio. Go to
 https://codio.com and click the "Sign In" link. If you don't already have a
 password, click the "Lost your password?" link and enter your university email
-address (ok, so you didn't lose it, you never had one in the first place &mdash;
+address (ok, so you didn't lose it, you never had one in the first place —
 but this is how to get one).
 
 Once signed in, click the "My Projects" link under the "BUILD" in the sidebar,
@@ -112,8 +112,8 @@ table below to help you out:
 
 ## 5. If You Don't Like Using Codio...
 
-Of course, Sinatra applications are not tied to Codio &mdash; they can be run on 
-other platforms. However, we do not provide any support for doing that &mdash;
+Of course, Sinatra applications are not tied to Codio — they can be run on 
+other platforms. However, we do not provide any support for doing that —
 sorry. Codio makes it really easy for us to provide a standardised environment
 to students in which we can help with common problems. Fixing individual machine
 setups is very time consuming and our priority is helping with programming
@@ -158,15 +158,15 @@ Codio (as discussed in lectures), but using port 4000.
 
 **Rating:** Slightly more endorsed, but potentially tricky to setup
 
-The second option may be more preferable &mdash; where you SSH into your Codio
+The second option may be more preferable — where you SSH into your Codio
 box from your text editor/IDE on your own machine. This gives you the best of
-both worlds &mdash; the use of your preferred development environment, but with
+both worlds — the use of your preferred development environment, but with
 the ease of Ruby already being set up for you on Codio, and you using the same
 platform as everyone else. However, you will need to navigate the instructions
-for doing this yourself &mdash; again, we are unable to provide assistance. See
+for doing this yourself — again, we are unable to provide assistance. See
 https://docs.codio.com/project/ide/boxes/#ssh-and-code-access-ssh-into-your-box.
 Instructions for your text editor/IDE vary of course, depending on what you're
-using &mdash; here are some useful pointers for VSCode, as an example:
+using — here are some useful pointers for VSCode, as an example:
 https://code.visualstudio.com/docs/remote/ssh.
 
 
@@ -174,8 +174,8 @@ https://code.visualstudio.com/docs/remote/ssh.
 
 **Rating:** Not recommended
 
-Finally, you can develop everything on your own machine. However, this means you
-installing Ruby and getting everything working yourself &mdash; we are unable to
+It's not *impossible* to develop everything on your own machine. However, this means you
+installing Ruby and getting everything working yourself — we are unable to
 provide support for students' individual machines. While getting Ruby set up
 tends to be relatively easy on Linux on Mac machines, Windows users typically
 encounter more problems. Also, do not forget your team members on your project

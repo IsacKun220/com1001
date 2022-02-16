@@ -94,9 +94,19 @@ your application) each time you change any Ruby code in it (an exception is
 `.erb` files, changes for which can be seen without stopping and restarting).
 
 This is a tedious thing to have to keep doing during development! So I recommend
-using `sinatra/reloader`, as I showed you in the
-[Sinatra Basics](slides/1-3-sinatra-basics.pdf) lecture (see the last slide). Using
+using `sinatra/reloader`, as I showed you in the [Sinatra
+Basics](slides/1-3-sinatra-basics.pdf) lecture (see the last slide). Using
 `sinatra/reloader` means that Sinatra will listen out for changes to your Ruby
 files and reload them when you make changes, meaning that you do not have to
 keep stopping and restarting the webserver each time you make a change to your
 project.
+
+### 6. I don't really like Codio. Can I use my own machine to develop on instead?
+
+We'd prefer you didn't. There are ways to use Codio in a way that is friendlier
+to more experienced programmers, however - see [here for
+instructions](code/#5-if-you-dont-like-using-codio).
+
+### 7. I've heard it's possible to use VSCode on Codio. Is that true?
+
+Yes! See [here for instructions](code/#5-if-you-dont-like-using-codio).

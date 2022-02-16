@@ -85,3 +85,18 @@ Other possible reasons:
   is one of the few occasions where you can [send me – Phil McMinn – an
   email](mailto:p.mcminn@sheffield.ac.uk). Make sure you that you include your
   Sheffield computer account username in the body of the email.
+
+### 5. I can't see the changes I made to my Sinatra application
+
+You have to stop (go to the terminal window and press "control" and "c") and
+then restart the webserver (triggered by the `sinatra` command you used to start
+your application) each time you change any Ruby code in it (an exception is
+`.erb` files, changes for which can be seen without stopping and restarting).
+
+This is a tedious thing to have to keep doing during development! So I recommend
+using `sinatra/reloader`, as I showed you in the
+[slides/1-3-sinatra-basics.pdf](Sinatra Basics) lecture. Using
+`sinatra/reloader` means that Sinatra will listen out for changes to your Ruby
+files and reload them when you make changes, meaning that you do not have to
+keep stopping and restarting the webserver each time you make a change to your
+project.

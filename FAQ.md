@@ -101,7 +101,7 @@ files and reload them when you make changes, meaning that you do not have to
 keep stopping and restarting the webserver each time you make a change to your
 project.
 
-### 6. I don't really like Codio. Can I use my own machine to develop on instead?
+### 6. I don't really like Codio. Can I use my own machine to develop on instead?
 
 We'd prefer you didn't. There are ways to use Codio in a way that is friendlier
 to more experienced programmers, however - see [here for

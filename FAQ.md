@@ -95,7 +95,7 @@ your application) each time you change any Ruby code in it (an exception is
 
 This is a tedious thing to have to keep doing during development! So I recommend
 using `sinatra/reloader`, as I showed you in the
-[slides/1-3-sinatra-basics.pdf](Sinatra Basics) lecture. Using
+[Sinatra Basics](slides/1-3-sinatra-basics.pdf) lecture. Using
 `sinatra/reloader` means that Sinatra will listen out for changes to your Ruby
 files and reload them when you make changes, meaning that you do not have to
 keep stopping and restarting the webserver each time you make a change to your

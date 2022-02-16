@@ -27,6 +27,13 @@ do this. It's also covered in the video on the [Getting
 Started](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset)
 page on Blackboard.
 
+Note that you have to clone the COM1001 and run the `install` script for every
+Codio project/box that you intend to work with. It's the `install` script that
+installs the `sinatra` script, so you won't be able to do any development unless
+you've completed this step. (You can't, for instance, have a separate Codio
+project/box for the COM1001 repository, and another for developing your team
+project.)
+
 ### 2. When I try to run one of the examples from the lectures in the `code` directory of this repository, it crashes with an error.
 
 This is because you need to install the gems for the example first. In the

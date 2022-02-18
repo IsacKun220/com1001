@@ -54,9 +54,12 @@ can also try Google of course for more information.
 ### When I try to do a `gem install`, Codio tells me I do not have "write permissions"
 
 That's because you should be using `bundler` instead. If you're trying to run
-one of the code examples from the lectures, see the answer to question 2 above.
-If it's for your own project, you should write a `Gemfile` and use that to run
-`bundler` instead. See the code examples in this repository for how to do that.  
+one of the code examples from the lectures, see the answer to the [question on
+Bundler
+above](#when-i-try-to-run-one-of-the-examples-from-the-lectures-in-the-code-directory-of-this-repository-it-crashes-with-an-error)
+above. If it's for your own project, you should write a `Gemfile` and use that
+to run `bundler` instead. See the code examples in this repository for how to do
+that.  
 
 ### When I try to run one of the examples, or my own code, Codio gives me a "502 Bad Gateway" error.
 

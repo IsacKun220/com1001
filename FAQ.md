@@ -1,6 +1,6 @@
 # Technical FAQ
 
-### 0. My problem/question is not listed below. What should I do?
+### My problem/question is not listed below. What should I do?
 
 * For questions about the assignment, check the [Assignment
   FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
@@ -18,7 +18,7 @@
   as a *last resort*. 
 
 
-### 1. When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
+### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
 Have you cloned this repository on Codio? If you did, you haven't run the
 `install` script yet to set up your Codio box. See the instructions in the
@@ -34,7 +34,7 @@ you've completed this step. (You can't, for instance, have a separate Codio
 project/box for the COM1001 repository, and another for developing your team
 project.)
 
-### 2. When I try to run one of the examples from the lectures in the `code` directory of this repository, it crashes with an error.
+### When I try to run one of the examples from the lectures in the `code` directory of this repository, it crashes with an error.
 
 This is because you need to install the gems for the example first. In the
 terminal, ensure you have changed directory to the one containing the example,
@@ -51,13 +51,20 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the
 material from the Autumn Semester (in particular, see Unit 7: Ruby Gems). You
 can also try Google of course for more information.
 
-### 3. When I try to run one of the examples, or my own code, Codio gives me a "502 Bad Gateway" error.
+### When I try to do a `gem install`, Codio tells me I do not have "write permissions"
+
+That's because you should be using `bundler` instead. If you're trying to run
+one of the code examples from the lectures, see the answer to question 2 above.
+If it's for your own project, you should write a `Gemfile` and use that to run
+`bundler` instead. See the code examples in this repository for how to do that.  
+
+### When I try to run one of the examples, or my own code, Codio gives me a "502 Bad Gateway" error.
 
 This is likely because you're not using the `sinatra` command to run your code
 and using the `ruby` command instead. Make sure you're using the `sinatra`
 command!
 
-### 4. I cannot clone my team's repository.
+### I cannot clone my team's repository.
 
 This is probably because you did not set up GitLab with your Codio SSH keys last
 semester. That is, you didn't complete both parts of Unit 8, which is about Git.
@@ -86,7 +93,7 @@ Other possible reasons:
   email](mailto:p.mcminn@sheffield.ac.uk). Make sure you that you include your
   Sheffield computer account username in the body of the email.
 
-### 5. I can't see the changes I made to my Sinatra application
+### I can't see the changes I made to my Sinatra application
 
 You have to stop (go to the terminal window and press "control" and "c") and
 then restart the webserver (triggered by the `sinatra` command you used to start
@@ -101,12 +108,12 @@ files and reload them when you make changes, meaning that you do not have to
 keep stopping and restarting the webserver each time you make a change to your
 project.
 
-### 6. I don't really like Codio. Can I use my own machine to develop on instead?
+### I don't really like Codio. Can I use my own machine to develop on instead?
 
 We'd prefer you didn't. There are ways to use Codio in a way that is friendlier
 to more experienced programmers, however - see [here for
 instructions](code/#5-if-you-dont-like-using-codio).
 
-### 7. I've heard it's possible to use VSCode on Codio. Is that true?
+### I've heard it's possible to use VSCode on Codio. Is that true?
 
 Yes! See [here for instructions](code/#5-if-you-dont-like-using-codio).

@@ -101,14 +101,18 @@ snippet of the example on the slide.
 If you're struggling to find the lecture in which an example appears, I've provided the
 table below to help you out:
 
-| Examples Directory  | Lecture(s) | Week(s)|
-| ------------------- | -----------|--------|
-| ``basics/`` | &bullet; [Sinatra Basics](../slides/1-3-sinatra-basics.pdf)  | 1 |
-| ``controllers/`` | &bullet; [MVC – Model View Controller](../slides/2-3-mvc.pdf)  | 2 |
-| ``forms/`` | &bullet; [Forms, GET and POST ](../slides/2-4-forms-get-and-post.pdf) <br/> &bullet; [Forms: Sanitisation and Validation](../slides/2-5-forms-sanitising-and-validating.pdf) | 2 |
-| ``getting_started/`` | &bullet; [Getting Codio Setup for the Spring Semester](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5796998_1&course_id=_96428_1&mode=reset) <br /> &bullet; [Sinatra Basics](../slides/1-3-sinatra-basics.pdf) | 1 <br /> 1 |
-| ``ruby/`` | &bullet; [Ruby Blocks](../slides/2-1-blocks.pdf)  | 2 |
-| ``views/`` | &bullet; [Views](../slides/2-2-views.pdf)  | 2 |
+| Examples Directory  | Lecture(s)                                                                                                                                                  | Week(s)                   |
+| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------- |
+| ``basics/``         | &bullet; _Sinatra Basics_                                                                                                                                   | 1                         |
+| ``controllers/``    | &bullet; _Model View Controller (MVC)_                                                                                                                      | 2                         |
+| ``databases/``      | &bullet; _Databases and SQLite_                                                                                                                             | 3                         |
+| ``debugging/``      | &bullet; _Debugging_ <br /> &bullet; _Testing_                                                                                                              | 1 <br/> 1                 |
+| ``forms/``          | &bullet; _Forms: GET and POST_ <br /> &bullet; _Forms: Sanitisation and Validation_ <br /> &bullet; _Forms and Models_                                      | 3 <br/> 3 <br/> 3         |
+| ``models/``         | &bullet; _Models_                                                                                                                                           | 3                         |
+| ``orm/``            | &bullet; _Object-Relational Mapping_                                                                                                                        | 3                         |
+| ``ruby/``           | &bullet; _Blocks_ <br /> &bullet; _Object-Relational Mapping_ (see slides on Hashes)                                                                        | 2 <br/> 3                 |
+| ``unit_testing/``   | &bullet; _Testing_                                                                                                                                          | 1                         |
+| ``views/``          | &bullet; _Views_                                                                                                                                            | 2                         |
 
 ## 5. If You Don't Like Using Codio...
 

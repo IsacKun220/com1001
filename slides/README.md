@@ -16,3 +16,7 @@ The PDF files are named `[WEEK]-[NO]-[TOPIC].pdf` where `[WEEK]` is the week of 
 | 2    | MVC | [2-3-mvc.pdf](2-3-mvc.pdf) |
 | 2    | Forms, get and post | [2-4-forms-get-and-post.pdf](2-4-forms-get-and-post.pdf) |
 | 2    | Forms: Sanitising and Validating User Inputs | [2-5-forms-sanitising-and-validating.pdf](2-5-forms-sanitising-and-validating.pdf) |
+| 3    | Databases | [3-1-databases.pdf](3-1-databases.pdf) |
+| 3    | Object Relational Mapping (ORM) | [3-2-orm.pdf](3-2-orm.pdf) |
+| 3    | Models | [3-3-models.pdf](3-3-models.pdf) |
+| 3    | Forms and Models | [3-4-forms-and-models.pdf](3-4-forms-and-models.pdf) |

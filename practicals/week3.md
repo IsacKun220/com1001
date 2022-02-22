@@ -27,7 +27,7 @@ store in your application. This is just to get yourself going, so don't make it
 overly complicated or make it the final version just yet. Just add a few columns
 to get started. 
 
-### 3. Write your first model.
+### 3. Write your first model
 
 Each member of the team should take the table they just added to their database
 and write a simple, initial model for it, using Sequel. Don't forget to write
@@ -36,7 +36,7 @@ tests for it?
 If it's a model/table that you'll be using for your team's web application, add
 the code to the repository. 
 
-### 4. Pages using the model.
+### 4. Pages using the model
 
 Start to work on developing some pages of your application that rely on the
 model. These might do database queries, or allow the user to edit the data in

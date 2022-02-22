@@ -3,7 +3,7 @@
 Read this whole page first, then start to tackle each of the tasks. Don't leave
 before doing no. 7 – deciding when and where you're going to meet next.
 
-### 1. In your teams, start to think about the architectural design of your web application.
+### 1. In your teams, start to think about the architectural design of your web application
 
 Take some of your key stories and discuss:
 
@@ -33,7 +33,7 @@ Take some of your key stories and discuss:
   views (see the "[Views of Views example](..//code//views/views_of_views/)" code
   example, discussed in lectures).
 
-### 3. Ensure everyone in the team is capable of setting up and running a blank Sinatra application (i.e., initially, one that contains little to no code). 
+### 3. Ensure everyone in the team is capable of setting up and running a blank Sinatra application (i.e., initially, one that contains little to no code)
 
 This should have all the directories as per the structure mentioned in
 lectures. Make sure that: 

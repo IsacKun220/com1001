@@ -1,4 +1,4 @@
-# Week 3: Databases
+# Week 3: Databases and Models
 
 ### 1. In your teams, start to think about the data that will need to persist in your web application
 

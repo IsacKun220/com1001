@@ -1,0 +1,14 @@
+require:
+  - rubocop-rspec
+
+AllCops:
+  NewCops: enable
+
+Metrics/MethodLength:
+  IgnoredMethods: ["add_average_width_and_height"]
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/StringLiterals:
+  Enabled: false

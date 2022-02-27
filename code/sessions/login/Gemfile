@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+gem "puma"
+gem "require_all"
+gem "sequel"
+gem "sinatra"
+gem "sqlite3"
+gem "time_difference"

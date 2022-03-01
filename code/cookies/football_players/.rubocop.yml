@@ -1,0 +1,33 @@
+require:
+  - rubocop-rspec
+  - rubocop-sequel
+
+AllCops:
+  NewCops: enable
+
+Metrics/AbcSize:
+  IgnoredMethods: ["load", "validate"]
+
+Metrics/BlockLength:
+  IgnoredMethods: ["describe", "context"]
+
+Metrics/CyclomaticComplexity:
+  IgnoredMethods: ["load", "validate"]
+
+Metrics/PerceivedComplexity:
+  IgnoredMethods: ["load", "validate"]
+
+RSpec/DescribeClass:
+  Enabled: false
+
+RSpec/ExampleLength:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/MixinUsage:
+  Enabled: false
+
+Style/StringLiterals:
+  Enabled: false

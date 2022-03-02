@@ -20,3 +20,9 @@ The PDF files are named `[WEEK]-[NO]-[TOPIC].pdf` where `[WEEK]` is the week of 
 | 3    | Object Relational Mapping (ORM) | [3-2-orm.pdf](3-2-orm.pdf) |
 | 3    | Models | [3-3-models.pdf](3-3-models.pdf) |
 | 3    | Forms and Models | [3-4-forms-and-models.pdf](3-4-forms-and-models.pdf) |
+| 4    | End to End Testing | [4-1-end-to-end-testing.pdf](4-1-end-to-end-testing.pdf) |
+| 4    | Test Coverage | [4-2-test-coverage.pdf](4-2-test-coverage.pdf) |
+| 4    | Cookies | [4-3-cookies.pdf](4-3-cookies.pdf) |
+| 4    | Sessions | [4-4-sessions.pdf](4-4-sessions.pdf) |
+| 4    | Advanced Routes | [4-5-advanced-routes.pdf](4-5-advanced-routes.pdf) |
+| 4    | Refactoring | [4-6-refactoring.pdf](4-6-refactoring.pdf) |

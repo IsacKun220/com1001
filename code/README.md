@@ -12,8 +12,7 @@ page.
 1. [Setting up Codio](#1-setting-up-codio)
 2. [Setting up and Installing the Repository on Codio](#2-setting-up-and-installing-the-repository-on-codio)
 3. [Running an Example](#3-running-an-example)
-4. [Which Code Examples are Discussed in Which Lectures?](#4-which-code-examples-are-discussed-in-which-lectures)
-5. [If You Don't Like Using Codio...](#5-if-you-dont-like-using-codio)
+4. [If You Don't Like Using Codio...](#4-if-you-dont-like-using-codio)
 
 ## 1. Setting up a Project on Codio
 
@@ -92,29 +91,7 @@ overall application, and not an "entry point" designed to be run themselves. It
 should be clear from the explanations in lectures and looking at the code itself
 which files are meant to be run and which ones are not.
 
-## 4. Which Code Examples are Discussed in Which Lectures?
-
-The lectures reference the code examples in this repository. The first time an
-example is mentioned, its path in the repository will be listed under the code
-snippet of the example on the slide. 
-
-If you're struggling to find the lecture in which an example appears, I've provided the
-table below to help you out:
-
-| Examples Directory  | Lecture(s)                                                                                                                                                  | Week(s)                   |
-| ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------| ------------------------- |
-| ``basics/``         | &bullet; _Sinatra Basics_                                                                                                                                   | 1                         |
-| ``controllers/``    | &bullet; _Model View Controller (MVC)_                                                                                                                      | 2                         |
-| ``databases/``      | &bullet; _Databases and SQLite_                                                                                                                             | 3                         |
-| ``debugging/``      | &bullet; _Debugging_ <br /> &bullet; _Testing_                                                                                                              | 1 <br/> 1                 |
-| ``forms/``          | &bullet; _Forms: GET and POST_ <br /> &bullet; _Forms: Sanitisation and Validation_ <br /> &bullet; _Forms and Models_                                      | 3 <br/> 3 <br/> 3         |
-| ``models/``         | &bullet; _Models_                                                                                                                                           | 3                         |
-| ``orm/``            | &bullet; _Object-Relational Mapping_                                                                                                                        | 3                         |
-| ``ruby/``           | &bullet; _Blocks_ <br /> &bullet; _Object-Relational Mapping_ (see slides on Hashes)                                                                        | 2 <br/> 3                 |
-| ``unit_testing/``   | &bullet; _Testing_                                                                                                                                          | 1                         |
-| ``views/``          | &bullet; _Views_                                                                                                                                            | 2                         |
-
-## 5. If You Don't Like Using Codio...
+## 4. If You Don't Like Using Codio...
 
 Of course, Sinatra applications are not tied to Codio — they can be run on 
 other platforms. However, we do not provide any support for doing that —

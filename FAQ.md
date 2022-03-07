@@ -6,6 +6,10 @@
   FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
   on Blackboard.
 
+* Try to find the answer yourself, by Googling. If you're unsure how to use Google 
+  to find answers to programming questions, see this video – the 
+  "(Art of Googling as a Programmer)[https://www.youtube.com/watch?v=JIV7wuihew8]".
+
 * Post a question in the appropriate forum in the [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
   on Blackboard. (This is the preferred route for general questions.)

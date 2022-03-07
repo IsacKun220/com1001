@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sign up</title>
+</head>
+<body>
+  <h1>Sign up</h1>
+  <p>Please enter your details.</p>
+  <form action="/signup" method="post">
+    <% unless @error.nil? %>
+      <p style="color:red"><%= @error %></p>
+    <% end %>
+    <% if @customer.errors.include?("username") %>
+      <% @customer.errors["username"].each do |error| %>
+        <p style="color:red">Username <%= error %></p>
+      <% end %>
+    <% end %>
+    <p>Username: <br /><input type="text" name="username"/></p>
+    <% if @customer.errors.include?("address") %>
+      <% @customer.errors["address"].each do |error| %>
+        <p style="color:red">Address <%= error %></p>
+      <% end %>
+    <% end %>
+    <p>Secret data: <br /><input type="text" name="data"/></p>
+    <% if @customer.errors.include?("data") %>
+      <% @customer.errors["data"].each do |error| %>
+        <p style="color:red">Secret data <%= error %></p>
+      <% end %>
+    <% end %>
+    <p>Password: <br /><input type="password" name="password"/></p>
+    <p><input type="submit" value="Submit"/></p>
+  </form>
+</body>
+</html>
+

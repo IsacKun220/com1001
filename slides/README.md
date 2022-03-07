@@ -26,3 +26,5 @@ The PDF files are named `[WEEK]-[NO]-[TOPIC].pdf` where `[WEEK]` is the week of 
 | 4    | Sessions | [4-4-sessions.pdf](4-4-sessions.pdf) |
 | 4    | Advanced Routes | [4-5-advanced-routes.pdf](4-5-advanced-routes.pdf) |
 | 4    | Refactoring | [4-6-refactoring.pdf](4-6-refactoring.pdf) |
+| 5    | Data Confidentiality | [5-1-data-confidentiality.pdf](5-1-data-confidentiality.pdf) |
+| 5    | Continuous Integration | [5-2-continuous-integration.pdf](5-2-continuous-integration.pdf) |

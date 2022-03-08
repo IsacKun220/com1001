@@ -32,10 +32,10 @@
   demonstrators are students too. They have assignments and deadlines of their
   own, so they may not respond immediately.
 
-* If your demonstrator cannot help you or for more general questions, post a
+* If your demonstrator cannot help you or for more general questions, *post a
   question in the appropriate forum in the [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
-  on Blackboard. Don't post chunks of your project's code in the forum (small
+  on Blackboard*. Don't post chunks of your project's code in the forum (small
   snippets or individual lines of code are fine). If you need to show us your
   complete code, include your team number and ensure you've pushed to the main
   branch of your repository, so that we can try to replicate the issue

@@ -21,7 +21,7 @@
   [Sequel](https://sequel.jeremyevans.net/documentation.html), and
   [RSpec](https://relishapp.com/rspec).
 
-  * *Use Google!* If you're unsure how to do this, or want to be more effective at using Google to find answers to
+  * *Use Google*. If you're unsure how to do this, or want to be more effective at using Google to find answers to
   programming questions, watch this video – "[Art of Googling as a
   Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips. It's Python-centric,
   but the principles apply to any programming language – and pretty much anything

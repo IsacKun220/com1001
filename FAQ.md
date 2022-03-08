@@ -17,7 +17,7 @@
   * *Read the documentation*. Your question may be answered by the documentation
   for [Sinatra](http://sinatrarb.com/documentation.html),
   [SQLite](https://www.sqlite.org/docs.html) ([see also the SQL
-  docs)[https://www.sqlite.org/lang.html]),
+  docs](https://www.sqlite.org/lang.html)),
   [Sequel](https://sequel.jeremyevans.net/documentation.html), and
   [RSpec](https://rspec.info/documentation/).
 

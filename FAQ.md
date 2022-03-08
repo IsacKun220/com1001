@@ -14,8 +14,12 @@
     missed that already explains something you wanted to know about or
     demonstrates some code similar to what you want to do.
 
-  * *Read the docs*. Your question may be answered by the documentation for
-  [Sinatra](), [SQLite](), [Sequel](), or [RSpec]().
+  * *Read the documentation*. Your question may be answered by the documentation
+  for [Sinatra](http://sinatrarb.com/documentation.html),
+  [SQLite](https://www.sqlite.org/docs.html) ([see also the SQL
+  docs)[https://www.sqlite.org/lang.html]),
+  [Sequel](https://sequel.jeremyevans.net/documentation.html), and
+  [RSpec](https://rspec.info/documentation/).
 
   * *Use Google!* If you're unsure how to use Google to find answers to
   programming questions, watch this video for some tips. It's Python-centric,

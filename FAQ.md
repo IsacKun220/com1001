@@ -7,7 +7,7 @@
   on Blackboard.
 
 2. **Try to find the answer yourself**. This is an important skill that will be
-   invaluable in the rest of your degree and your future careers, so start to
+   invaluable in the rest of your degree and your future career, so start to
    develop it now! Here are some tips:
 
   * *Check the lecture slides*. There may be a slide or an example that you

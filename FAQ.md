@@ -2,25 +2,47 @@
 
 ### My problem/question is not listed below. What should I do?
 
-* For questions about the assignment, check the [Assignment
+1. For questions about the assignment, check the [Assignment
   FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
   on Blackboard.
 
-* Try to find the answer yourself, by Googling. If you're unsure how to use Google 
-  to find answers to programming questions, see this video – the 
-  "[Art of Googling as a Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)".
+2. **Try to find the answer yourself**. This is an important skill that will be
+   invaluable in the rest of your degree and your future careers, so start to
+   develop it now! Here are some tips:
 
-* Post a question in the appropriate forum in the [Discussion
+  * *Check the lecture slides*. There may be a slide or an example that you
+    missed that already explains something you wanted to know about or
+    demonstrates some code similar to what you want to do.
+
+  * *Read the docs*. Your question may be answered by the documentation for
+  [Sinatra](), [SQLite](), [Sequel](), or [RSpec]().
+
+  * *Use Google!* If you're unsure how to use Google to find answers to
+  programming questions, watch this video for some tips. It's Python-centric,
+  but the principles apply to any programming language and pretty much anything
+  technical. It's called the "[Art of Googling as a
+  Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)".
+
+3. **If the above all fails, you can ask a question.** There are different
+   routes for this, depending on the type of your question:
+
+* For specific technical questions about your team project, *ask your
+  demonstrator*. You can ask in the lab, or via Slack if the issue arises
+  between labs and cannot wait until the next one. Bear in mind that your
+  demonstrators are students too. They have assignments and deadlines of their
+  own, so they may not respond immediately.
+
+* If your demonstrator cannot help you or for more general questions, post a
+  question in the appropriate forum in the [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
-  on Blackboard. (This is the preferred route for general questions.)
-
-* Ask your demonstrator via Slack, or in person if you're reading this in a lab
-  class. (This is the preferred route for specific technical questions about
-  your team project.)
+  on Blackboard. Don't post chunks of your project's code in the forum (small
+  snippets or individual lines of code are fine). If you need to show us your
+  complete code, include your team number and ensure you've pushed to the main
+  branch of your repository, so that we can try to replicate the issue
+  ourselves. 
 
 * Although staff email addresses are listed on Blackboard, please only use these
   as a *last resort*. 
-
 
 ### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 

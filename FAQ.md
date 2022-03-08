@@ -19,7 +19,7 @@
   [SQLite](https://www.sqlite.org/docs.html) ([see also the SQL
   docs](https://www.sqlite.org/lang.html)),
   [Sequel](https://sequel.jeremyevans.net/documentation.html), and
-  [RSpec](https://rspec.info/documentation/).
+  [RSpec](https://relishapp.com/rspec).
 
   * *Use Google!* If you're unsure how to use Google to find answers to
   programming questions, watch this video for some tips. It's Python-centric,

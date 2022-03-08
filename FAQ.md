@@ -22,10 +22,10 @@
   [RSpec](https://relishapp.com/rspec).
 
   * *Use Google!* If you're unsure how to use Google to find answers to
-  programming questions, watch this video for some tips. It's Python-centric,
-  but the principles apply to any programming language and pretty much anything
-  technical. It's called the "[Art of Googling as a
-  Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)".
+  programming questions, watch this video – "[Art of Googling as a
+  Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips. It's Python-centric,
+  but the principles apply to any programming language – and pretty much anything
+  technical.
 
 3. **If the above all fails, you can ask a question.** There are different
    routes for this, depending on the type of your question:

@@ -141,7 +141,7 @@ files and reload them when you make changes, meaning that you do not have to
 keep stopping and restarting the webserver each time you make a change to your
 project.
 
-### Our team project works for my team mates but crashes with an error on my Codio box.
+### Our team project works for my teammates but crashes with an error on my Codio box.
 
 These kinds of issues ("it works for my teammates but not for me") are almost
 always (99% of the time) to do with differences in the gems that are installed

@@ -21,11 +21,12 @@
   [Sequel](https://sequel.jeremyevans.net/documentation.html), and
   [RSpec](https://relishapp.com/rspec).
 
-  * *Use Google*. If you're unsure how to do this, or want to be more effective at using Google to find answers to
-  programming questions, watch this video – "[Art of Googling as a
-  Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips. It's Python-centric,
-  but the principles apply to any programming language – and pretty much anything
-  technical.
+  * *Use Google*. If you're unsure how to do this, or want to be more effective
+  at using Google to find answers to programming questions, watch this video –
+  "[Art of Googling as a
+  Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips.
+  It's Python-centric, but the principles apply to any programming language –
+  and pretty much anything technical.
 
 3. **If the above all fails, you can ask a question.** There are different
    routes for this, depending on the type of your question:
@@ -139,6 +140,32 @@ Basics](slides/1-3-sinatra-basics.pdf) lecture (see the last slide). Using
 files and reload them when you make changes, meaning that you do not have to
 keep stopping and restarting the webserver each time you make a change to your
 project.
+
+### Our team project works for my team mates but crashes with an error on my Codio box
+
+These kinds of issues ("it works for my teammates but not for me") are almost
+always (99% of the time) to do with differences in the gems that are installed
+on different Codio boxes. If you think about it logically, what else could be
+the difference in setup between your Codio box and theirs, since each box is
+practically identical in terms of its configuration at the beginning. When
+trying to debug, try to think about differences between "when it works" and
+"when it doesn't". 
+
+If you issue a `gem list` command at the terminal, you will be able to see a
+list of gems installed on your box, and you can compare it with that of your
+teammates'. (The list can be quite long!)
+
+You can also use the `reset_gems` command to reset the gems installed on your
+box.
+
+Make sure that your project has all the gems it needs by keeping your `Gemfile`
+up to date. This is the key to avoiding these kinds of problems in the first
+place. 
+
+### I'm getting an error message `cannot load such file -- sequel (LoadError)' but I have the sequel gem installed.
+
+You need the `sqlite3` gem installed as well. Make sure both the `sequel` and
+the `sqlite3` gems are part of your project's `Gemfile`.
 
 ### I don't really like Codio. Can I use my own machine to develop on instead?
 

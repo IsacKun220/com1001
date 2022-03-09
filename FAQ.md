@@ -82,7 +82,7 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the
 material from the Autumn Semester (in particular, see Unit 7: Ruby Gems). You
 can also try Google of course for more information.
 
-### When I try to do a `gem install`, Codio tells me I do not have "write permissions"
+### When I try to do a `gem install`, Codio tells me I do not have "write permissions".
 
 That's because you should be using `bundler` instead. If you're trying to run
 one of the code examples from the lectures, see the answer to the [question on
@@ -126,7 +126,7 @@ Other possible reasons:
   email](mailto:p.mcminn@sheffield.ac.uk). Make sure you that you include your
   Sheffield computer account username in the body of the email.
 
-### I can't see the changes I made to my Sinatra application
+### I can't see the changes I made to my Sinatra application.
 
 You have to stop (go to the terminal window and press "control" and "c") and
 then restart the webserver (triggered by the `sinatra` command you used to start
@@ -141,7 +141,7 @@ files and reload them when you make changes, meaning that you do not have to
 keep stopping and restarting the webserver each time you make a change to your
 project.
 
-### Our team project works for my team mates but crashes with an error on my Codio box
+### Our team project works for my team mates but crashes with an error on my Codio box.
 
 These kinds of issues ("it works for my teammates but not for me") are almost
 always (99% of the time) to do with differences in the gems that are installed

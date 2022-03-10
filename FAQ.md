@@ -1,6 +1,19 @@
 # Technical FAQ
 
-## Asking Questions
+This FAQ is organised into the following sections. Some problems fit more than
+one section, so ensure you've properly checked if you don't think your question
+is answered. 
+
+* [How to Ask Questions]()
+* [Problems Running Project or Example Code]()
+* [Problems with Git]()
+* [Getting the Best out of Codio]()
+
+If your issue doesn't seem to appear on the page, check "[How to Ask
+Questions]()" first, before asking a question. If you think an issue needs to be
+added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
+
+## How to Ask Questions
 
 ### My problem/question is not listed below. What should I do?
 
@@ -86,6 +99,24 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the
 material from the Autumn Semester (in particular, see Unit 7: Ruby Gems). You
 can also try Google of course for more information.
 
+### When I run my web application or an example, Codio display a "401 Authorization Required" message instead of the proper web page
+
+This is because Codio doesn't think you're logged into Codio on the web browser
+you're trying to use. Open a tab and check you are indeed logged in. If this
+doesn't work, try clearing out your cookies, log into Codio and try again. 
+
+If the issue persists, it's likely an issue with your browser, so try a
+different one. If this still doesn't work, then it might be a machine setting,
+so contact me (or try Codio support). The university's machines should always
+work, so this facility should always be available to you, even if you cannot run
+examples on your own machine. 
+
+### When I run my web application or an example, Codio display a "502 Bad Gateway" error instead of the proper web page
+
+This is likely because you're not using the `sinatra` command to run your code
+and using the `ruby` command instead. Make sure you're using the `sinatra`
+command!
+
 ### When I try to do a `gem install`, Codio tells me I do not have "write permissions".
 
 That's because you should be using `bundler` instead. If you're trying to run
@@ -94,12 +125,6 @@ Bundler
 above](#when-i-try-to-run-one-of-the-examples-from-the-lectures-in-the-code-directory-of-this-repository-it-crashes-with-an-error).
 If it's for your own project, you should write a `Gemfile` and use that to run
 `bundler` instead. See the code examples in this repository for how to do that.  
-
-### When I try to run one of the examples, or my own code, Codio gives me a "502 Bad Gateway" error.
-
-This is likely because you're not using the `sinatra` command to run your code
-and using the `ruby` command instead. Make sure you're using the `sinatra`
-command!
 
 ### I can't see the changes I made to my Sinatra application.
 
@@ -173,7 +198,7 @@ Other possible reasons:
   email](mailto:p.mcminn@sheffield.ac.uk). Make sure you that you include your
   Sheffield computer account username in the body of the email.
 
-## Problems with Codio
+## Getting the Best out of Codio
 
 ### I don't really like Codio. Can I use my own machine to develop on instead?
 

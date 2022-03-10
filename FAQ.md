@@ -65,7 +65,7 @@ these steps:
   on Blackboard*. 
   
   *Don't post large chunks of your project's code in the forum*. If your problem
-  only involves one or two lines of code, go ahead and post them But if your
+  only involves one or two lines of code, go ahead and post them. But if your
   problem involves large segments or involves the whole project, then leave your
   team number and ensure you've pushed everything to the main branch of your
   repository. We can then clone your code and try to replicate the issue
@@ -75,6 +75,11 @@ these steps:
   addresses are listed on Blackboard, they're only there as as a *last resort*.
   It is highly unlikely that you won't get a response using one of the methods
   above.
+
+Naturally, when asking a question, help us to help you by including as much
+relevant information as possible. Screen shots are fine, but don't just post
+these without any context. If you don't provide all the information needed, we
+won't be able to resolve the issue.
 
 ## 2. Problems Running Project or Example Code 
 

@@ -179,6 +179,30 @@ place.
 You need the `sqlite3` gem installed as well. Make sure both the `sequel` and
 the `sqlite3` gems are part of your project's `Gemfile`.
 
+### What gems will I need?
+
+**Basic gems** include `sinatra`, `puma` (the web server), `require_all` (for
+automatically "requiring" all Ruby files in a directory), `rubocop` (for coding
+standards and style checking). 
+
+For the **database**, you'll need at least `sequel` *and* `sqlite3`. Don't
+forget the `sqlite3` gem, otherwise you'll get some confounding error messages.  
+
+For **encrypting user data** (i.e., to preserve data confidentiality), you'll
+need `openssl`.
+
+For **code style checking**, you'll need `rubocop`. To extend style checking to
+RSpec and Sequel code, you'll also need `rubocop-rspec` and `rubocop-sequel`
+respectively.
+
+For **testing**, you'll need at least `capybara` (for end to end tests),
+`rack-test`, `rspec`, and `simplecov` (for coverage tracking).
+
+Note that some of these gems may already be installed on a fresh Codio box. It's
+good practice to include them in your Gemfile regardless for
+development/deployment environments where they aren't.
+
+
 ## 3. Problems with Git
 
 ### I cannot clone my team's repository.

@@ -1,5 +1,7 @@
 # Technical FAQ
 
+## Asking Questions
+
 ### My problem/question is not listed below. What should I do?
 
 1. For questions about the assignment, check the [Assignment
@@ -49,6 +51,8 @@
 * Although staff email addresses are listed on Blackboard, please only use these
   as a *last resort*. 
 
+## Problems Running Project or Example Code 
+
 ### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
 Have you cloned this repository on Codio? If you did, you haven't run the
@@ -97,35 +101,6 @@ This is likely because you're not using the `sinatra` command to run your code
 and using the `ruby` command instead. Make sure you're using the `sinatra`
 command!
 
-### I cannot clone my team's repository.
-
-This is probably because you did not set up GitLab with your Codio SSH keys last
-semester. That is, you didn't complete both parts of Unit 8, which is about Git.
-I'd strongly recommend you go back and do both of these units, because Git is
-very important this semester.
-
-To set up your SSH keys, sign into Codio, then click your username in the bottom
-left profile. Under "My Account", there should be a menu item called "SSH Keys".
-If you click this link, you'll be taken to a page with a grey box at the top,
-with your public SSH key in it. Ensure that you select and copy the entire
-contents of this box (and *only* the contents of the box). Now, log into Gitlab
-(https://git.shefcompsci.org). Click the icon in the top right of the page to
-reveal a drop-down box, and select "Preferences". Select "SSH Keys" from the
-sidebar that appears. In the big text box that appears, paste your SSH key. In
-the title box, enter "Codio". Then click the "Add key" button.
-
-Other possible reasons:
-
-* You're trying to clone another team's repository. Check your team number!
-
-* There's been an administrative error, and you don't have the necessary
-  permissions to clone your team's repository. This is the most unlikeliest of
-  the possibilities, so check you have done all of the above first. However, it
-  does happen from time to time, so if you're still experiencing problems, this
-  is one of the few occasions where you can [send me – Phil McMinn – an
-  email](mailto:p.mcminn@sheffield.ac.uk). Make sure you that you include your
-  Sheffield computer account username in the body of the email.
-
 ### I can't see the changes I made to my Sinatra application.
 
 You have to stop (go to the terminal window and press "control" and "c") and
@@ -166,6 +141,39 @@ place.
 
 You need the `sqlite3` gem installed as well. Make sure both the `sequel` and
 the `sqlite3` gems are part of your project's `Gemfile`.
+
+## Problems with Git
+
+### I cannot clone my team's repository.
+
+This is probably because you did not set up GitLab with your Codio SSH keys last
+semester. That is, you didn't complete both parts of Unit 8, which is about Git.
+I'd strongly recommend you go back and do both of these units, because Git is
+very important this semester.
+
+To set up your SSH keys, sign into Codio, then click your username in the bottom
+left profile. Under "My Account", there should be a menu item called "SSH Keys".
+If you click this link, you'll be taken to a page with a grey box at the top,
+with your public SSH key in it. Ensure that you select and copy the entire
+contents of this box (and *only* the contents of the box). Now, log into Gitlab
+(https://git.shefcompsci.org). Click the icon in the top right of the page to
+reveal a drop-down box, and select "Preferences". Select "SSH Keys" from the
+sidebar that appears. In the big text box that appears, paste your SSH key. In
+the title box, enter "Codio". Then click the "Add key" button.
+
+Other possible reasons:
+
+* You're trying to clone another team's repository. Check your team number!
+
+* There's been an administrative error, and you don't have the necessary
+  permissions to clone your team's repository. This is the most unlikeliest of
+  the possibilities, so check you have done all of the above first. However, it
+  does happen from time to time, so if you're still experiencing problems, this
+  is one of the few occasions where you can [send me – Phil McMinn – an
+  email](mailto:p.mcminn@sheffield.ac.uk). Make sure you that you include your
+  Sheffield computer account username in the body of the email.
+
+## Problems with Codio
 
 ### I don't really like Codio. Can I use my own machine to develop on instead?
 

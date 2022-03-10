@@ -5,11 +5,14 @@ one section, so ensure you've properly checked if you don't think your question
 is answered (search the text of the page using the "find" option, which is under
 the "edit" menu on most browsers).
 
-* [1. How to Ask Questions](#1-how-to-ask-questions)
-* [2. Problems Running Project or Example
-  Code](#2-problems-running-project-or-example-code)
-* [3. Problems with Git](#3-problems-with-git)
-* [4. Getting the Most Out of Codio](#4-getting-the-most-out-of-codio)
+1. [How to Ask Questions](#1-how-to-ask-questions) 
+
+2. [Problems Running Project or Example
+   Code](#2-problems-running-project-or-example-code) 
+
+3. [Problems with Git](#3-problems-with-git) 
+  
+4. [Getting the Most Out of Codio](#4-getting-the-most-out-of-codio)
 
 If your issue doesn't seem to appear on the page, check "[How to Ask
 Questions]()" first, before asking a question. If you think an issue needs to be

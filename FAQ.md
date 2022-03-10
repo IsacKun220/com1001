@@ -4,16 +4,16 @@ This FAQ is organised into the following sections. Some problems fit more than
 one section, so ensure you've properly checked if you don't think your question
 is answered. 
 
-* [How to Ask Questions]()
-* [Problems Running Project or Example Code]()
-* [Problems with Git]()
-* [Getting the Best out of Codio]()
+* [1. How to Ask Questions]()
+* [2. Problems Running Project or Example Code]()
+* [3. Problems with Git]()
+* [4. Getting the Most Out of Codio]()
 
 If your issue doesn't seem to appear on the page, check "[How to Ask
 Questions]()" first, before asking a question. If you think an issue needs to be
 added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 
-## How to Ask Questions
+## 1. How to Ask Questions
 
 ### My problem/question is not listed below. What should I do?
 
@@ -64,7 +64,7 @@ added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 * Although staff email addresses are listed on Blackboard, please only use these
   as a *last resort*. 
 
-## Problems Running Project or Example Code 
+## 2. Problems Running Project or Example Code 
 
 ### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
@@ -167,7 +167,7 @@ place.
 You need the `sqlite3` gem installed as well. Make sure both the `sequel` and
 the `sqlite3` gems are part of your project's `Gemfile`.
 
-## Problems with Git
+## 3. Problems with Git
 
 ### I cannot clone my team's repository.
 
@@ -198,7 +198,7 @@ Other possible reasons:
   email](mailto:p.mcminn@sheffield.ac.uk). Make sure you that you include your
   Sheffield computer account username in the body of the email.
 
-## Getting the Best out of Codio
+## 4. Getting the Most Out of Codio
 
 ### I don't really like Codio. Can I use my own machine to develop on instead?
 

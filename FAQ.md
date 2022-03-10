@@ -45,7 +45,7 @@ added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
   It's Python-centric, but the principles apply to any programming language –
   and pretty much anything technical.
 
-3. **If the above all fails, you can ask a question.** See the next question on
+3. **If the above all fails, you can ask a question.** See the next section on
    how to go about doing this.
 
 ### How Do I Go About Asking Questions?

@@ -4,10 +4,11 @@ This FAQ is organised into the following sections. Some problems fit more than
 one section, so ensure you've properly checked if you don't think your question
 is answered. 
 
-* [1. How to Ask Questions]()
-* [2. Problems Running Project or Example Code]()
-* [3. Problems with Git]()
-* [4. Getting the Most Out of Codio]()
+* [1. How to Ask Questions](#1-how-to-ask-questions)
+* [2. Problems Running Project or Example
+  Code](#2-problems-running-project-or-example-code)
+* [3. Problems with Git](#3-problems-with-git)
+* [4. Getting the Most Out of Codio](#4-getting-the-most-out-of-codio)
 
 If your issue doesn't seem to appear on the page, check "[How to Ask
 Questions]()" first, before asking a question. If you think an issue needs to be
@@ -43,26 +44,36 @@ added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
   It's Python-centric, but the principles apply to any programming language –
   and pretty much anything technical.
 
-3. **If the above all fails, you can ask a question.** There are different
-   routes for this, depending on the type of your question:
+3. **If the above all fails, you can ask a question.** See the next question on
+   how to go about doing this.
 
-* For specific technical questions about your team project, *ask your
+### How Do I Go About Asking Questions?
+
+To ensure you get a timely answer that resolves your problem, ensure you follow
+these steps:
+
+* **For specific technical questions about your team project**, *ask your
   demonstrator*. You can ask in the lab, or via Slack if the issue arises
   between labs and cannot wait until the next one. Bear in mind that your
   demonstrators are students too. They have assignments and deadlines of their
   own, so they may not respond immediately.
 
-* If your demonstrator cannot help you or for more general questions, *post a
-  question in the appropriate forum in the [Discussion
+* **If your demonstrator cannot help you**, *post a question in the appropriate
+  forum in the [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
-  on Blackboard*. Don't post chunks of your project's code in the forum (small
-  snippets or individual lines of code are fine). If you need to show us your
-  complete code, include your team number and ensure you've pushed to the main
-  branch of your repository, so that we can try to replicate the issue
+  on Blackboard*. 
+  
+  *Don't post large chunks of your project's code in the forum*. If your problem
+  only involves one or two lines of code, go ahead and post them But if your
+  problem involves large segments or involves the whole project, then leave your
+  team number and ensure you've pushed everything to the main branch of your
+  repository. We can then clone your code and try to replicate the issue
   ourselves. 
 
-* Although staff email addresses are listed on Blackboard, please only use these
-  as a *last resort*. 
+* Please don't email staff about technical issues directly. Although staff email
+  addresses are listed on Blackboard, they're only there as as a *last resort*.
+  It is highly unlikely that you won't get a response using one of the methods
+  above.
 
 ## 2. Problems Running Project or Example Code 
 

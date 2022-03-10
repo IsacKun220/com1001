@@ -269,7 +269,7 @@ of your preferred development environment, but with the ease of Ruby already
 being set up for you on Codio, and you using the same platform as everyone else.
 However, you will need to navigate the instructions for doing this yourself —
 again, we are unable to provide assistance. See
-https://docs.codio.com/project/ide/boxes/#ssh-and-code-access-ssh-into-your-box.
+https://docs.codio.com/common/develop/ide/boxes/access.html.
 Instructions for your text editor/IDE vary of course, depending on what you're
 using — here are some useful pointers for VSCode, as an example:
 https://code.visualstudio.com/docs/remote/ssh.

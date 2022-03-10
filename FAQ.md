@@ -17,7 +17,7 @@ added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 
 ## 1. How to Ask Questions
 
-### My problem/question is not listed below. What should I do?
+### My problem/question is not listed in this FAQ. What should I do?
 
 1. For questions about the assignment, check the [Assignment
   FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)

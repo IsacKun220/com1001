@@ -2,7 +2,8 @@
 
 This FAQ is organised into the following sections. Some problems fit more than
 one section, so ensure you've properly checked if you don't think your question
-is answered. 
+is answered (search the page using the "find" option, which is under the "edit"
+menu on most browsers).
 
 * [1. How to Ask Questions](#1-how-to-ask-questions)
 * [2. Problems Running Project or Example

@@ -188,7 +188,7 @@ all of these, so don't worry about the ones you don't recognise (yet):
   automatically "requiring" all Ruby files in a directory), `rubocop` (for
   coding standards and style checking). 
 
-* For the **database**, you'll need at least `sequel` *and* `sqlite3`. Don't
+* For the **database**, you'll need at least `sequel` and `sqlite3`. Don't
   forget the `sqlite3` gem, otherwise you'll get some confounding error
   messages.  
 
@@ -199,7 +199,7 @@ all of these, so don't worry about the ones you don't recognise (yet):
   to RSpec and Sequel code, you'll also need `rubocop-rspec` and
   `rubocop-sequel` respectively.
 
-* For **testing**, you'll need at least `capybara` (for end to end tests),
+* For **testing**, you'll need at least `capybara` (for end-to-end tests),
   `rack-test`, `rspec`, and `simplecov` (for coverage tracking).
 
 Note that some of these gems may already be installed on a fresh Codio box. It's

@@ -215,10 +215,12 @@ development/deployment environments where they aren't.
 
 ### I cannot clone my team's repository.
 
-This is probably because you did not set up GitLab with your Codio SSH keys last
-semester. That is, you didn't complete both parts of Unit 8, which is about Git.
-I'd strongly recommend you go back and do both of these units, because Git is
-very important this semester.
+You keep getting asked for your password, but you're getting error messages.
+This is because GitLab uses SSH keys to authenticate you rather than passwords.
+If you're being asked for your password, it's probably because you did not set
+up GitLab with your Codio SSH keys last semester. That is, you didn't complete
+both parts of Unit 8, which is about Git. I'd strongly recommend you go back and
+do both of these units, because Git is very important this semester.
 
 To set up your SSH keys, sign into Codio, then click your username in the bottom
 left profile. Under "My Account", there should be a menu item called "SSH Keys".
@@ -301,7 +303,7 @@ of your preferred development environment, but with the ease of Ruby already
 being set up for you on Codio, and you using the same platform as everyone else.
 However, you will need to navigate the instructions for doing this yourself —
 again, we are unable to provide assistance. See
-https://docs.codio.com/common/develop/ide/boxes/access.html.
-Instructions for your text editor/IDE vary of course, depending on what you're
-using — here are some useful pointers for VSCode, as an example:
+https://docs.codio.com/common/develop/ide/boxes/access.html. Instructions for
+your text editor/IDE vary of course, depending on what you're using — here are
+some useful pointers for VSCode, as an example:
 https://code.visualstudio.com/docs/remote/ssh.

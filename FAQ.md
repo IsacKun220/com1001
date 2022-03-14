@@ -31,6 +31,10 @@ added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
     missed that already explains something you wanted to know about or
     demonstrates some code similar to what you want to do.
 
+  * *Check the discussion forums on Blackboard* to see if your question has
+    already been answered. If it hasn't, don't post a question just yet. There
+    are more steps to try first.
+
   * *Read the documentation*. Your question may be answered by the documentation
   for [Sinatra](http://sinatrarb.com/documentation.html),
   [SQLite](https://www.sqlite.org/docs.html) ([see also the SQL

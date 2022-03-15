@@ -7,8 +7,7 @@ the "edit" menu on most browsers).
 
 1. [How to Ask
    Questions](#1-how-to-ask-questions-or-how-to-find-your-own-answers) 
-2. [Problems Running Project or Example
-   Code](#2-problems-running-project-or-example-code) 
+2. [Problems Running Code](#2-problems-running-code) 
 3. [Problems with Git](#3-problems-with-git) 
 4. [Getting the Most Out of Codio](#4-getting-the-most-out-of-codio)
 
@@ -250,6 +249,8 @@ application may behave differently. If you're experiencing some differing
 behaviour, the first thing you can check is the log files produced by Sequel.
 Check the queries are the same when the application is being run in "production"
 mode compared to when it is being tested.
+
+
 
 ## 3. Problems with Git
 

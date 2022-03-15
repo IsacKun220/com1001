@@ -66,7 +66,7 @@ degree, and also your future career. So start to develop it now!
    It's a bit Python-centric, but the principles apply to any programming
    language on any platform – and pretty much anything technical.
 
-**If the above all fails, you can ask a question.** See the next section on how
+**If all of the above fails, you can ask a question.** See the next section on how
 to go about doing this.
 
 ### How Do I Go About Asking Questions?

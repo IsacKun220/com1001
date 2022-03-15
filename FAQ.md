@@ -5,7 +5,8 @@ one section, so ensure you've properly checked if you don't think your question
 is answered (search the text of the page using the "find" option, which is under
 the "edit" menu on most browsers).
 
-1. [How to Ask Questions](#1-how-to-ask-questions-or-how-to-find-your-own-answers) 
+1. [How to Ask
+   Questions](#1-how-to-ask-questions-or-how-to-find-your-own-answers) 
 2. [Problems Running Project or Example
    Code](#2-problems-running-project-or-example-code) 
 3. [Problems with Git](#3-problems-with-git) 
@@ -18,12 +19,12 @@ added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 ## 1. How to Ask Questions (Or, How to Find Your Own Answers)
 
 I don't believe that there are stupid questions, but there are definitely *lazy*
-ones. It's not that lazy questions are annoying for academic staff – because the
-answer is obvious, or because we think you weren't paying attention in class –
-it's because you're actually denying yourself a learning opportunity by not
-putting in the effort to find the answer yourself. This is not just about honing
-your skills in quickly finding the information you need, but also how to resolve
-problems and debug issues with code yourself. 
+ones. It's not that lazy questions are annoying for academic staff – because we
+think the answer is obvious, or because maybe you weren't paying attention in
+class – it's because you're actually denying yourself a learning opportunity by
+not putting in the effort to find the answer yourself. This is not just about
+honing your skills in quickly finding the information you need, but also how to
+resolve problems and debug issues with code yourself. 
 
 Before asking a question, try to find the answer yourself. Finding your own
 answers is an important skill that will be invaluable in the rest of your

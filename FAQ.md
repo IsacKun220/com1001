@@ -178,6 +178,14 @@ files and reload them when you make changes, meaning that you do not have to
 keep stopping and restarting the web server each time you make a change to your
 project.
 
+**CSS**. If the problem is rather to do with your web application's
+presentation, and specifically your CSS seemingly not updating, check that your
+browser is not caching your CSS files (i.e., using a stored, out of date copy,
+rather than a fresh version from your web application).
+
+Clear out your browser cache, or switch off caching altogether. Google how to do
+this for the browser you're using.
+
 ### Our team project works for my teammates but crashes with an error on my Codio box.
 
 These kinds of issues ("it works for my teammates but not for me") are almost

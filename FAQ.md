@@ -58,9 +58,9 @@ Here are some tips.
    [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see
    also the handy [cheat sheet](https://devhints.io/capybara)).
 
-5. *Use Google*. If you're unsure how to do this, or want to be more effective
-   at using Google to find answers to programming questions, watch this video –
-   "[Art of Googling as a
+5. *Use Google*. If you're unsure how to go about googling technical issues, or
+   want to be more effective at using Google to find answers to programming
+   questions, watch this video – "[Art of Googling as a
    Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips.
    It's Python-centric, but the principles apply to any programming language on
    any platform – and pretty much anything technical.

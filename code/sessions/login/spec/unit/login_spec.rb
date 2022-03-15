@@ -3,7 +3,7 @@ require_relative "../spec_helper"
 RSpec.describe "Login App" do
   describe "GET/" do
     it "displays the welcome message when logged in" do
-      get "/", {}, { 'rack.session' => { logged_in: true } }
+      get "/", {}, { "rack.session" => { logged_in: true } }
       expect(last_response.body).to include("Welcome to the Secure Area")
     end
 

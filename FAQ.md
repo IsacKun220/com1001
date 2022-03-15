@@ -17,17 +17,17 @@ added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 
 ## 1. How to Ask Questions (Or, How to Find Your Own Answers)
 
-I don't believe that there are any stupid questions, but there are *lazy* ones.
-It's not that lazy questions are annoying, because the answer is obvious, or
-because you weren't paying attention, it's usually that you're actually denying
-yourself a learning opportunity by not putting in the effort to find the answer
-yourself. This is not just about honing your skills in quickly finding the
-information you need, but also how to resolve problems and debug issues with
-code yourself. 
+I don't believe that there are stupid questions, but there are definitely *lazy*
+ones. It's not that lazy questions are annoying for academic staff – because the
+answer is obvious, or because we think you weren't paying attention in class –
+it's because you're actually denying yourself a learning opportunity by not
+putting in the effort to find the answer yourself. This is not just about honing
+your skills in quickly finding the information you need, but also how to resolve
+problems and debug issues with code yourself. 
 
 Before asking a question, try to find the answer yourself. Finding your own
-answers is an important skill that will be invaluable in the rest of your degree
-and your future career. So start to develop it now! 
+answers is an important skill that will be invaluable in the rest of your
+degree, and also your future career. So start to develop it now! 
 
 ### Finding Your Own Answers 
 
@@ -65,8 +65,8 @@ Here are some tips.
    It's Windows and Python-centric, but the principles apply to any programming
    language on any platform – and pretty much anything technical.
 
-**If the above all fails, you can ask a question.** See the next section on
-how to go about doing this.
+**If the above all fails, you can ask a question.** See the next section on how
+to go about doing this.
 
 ### How Do I Go About Asking Questions?
 

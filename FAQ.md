@@ -147,7 +147,7 @@ If the issue persists, it's likely an issue with your browser, so try a
 different one. If this still doesn't work, then it might be a machine setting,
 so contact me (or try Codio support). The university's machines should always
 work, so this facility should always be available to you, even if you cannot run
-examples on your own machine. 
+examples with Codio from your own machine. 
 
 ### When I run my web application or an example, Codio display a "502 Bad Gateway" error instead of the proper web page
 

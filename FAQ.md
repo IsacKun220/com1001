@@ -215,7 +215,7 @@ all of these, so don't worry about the ones you don't recognise (yet):
   coding standards and style checking). 
 
 * For the **database**, you'll need at least `sequel` and `sqlite3`. Don't
-  forget the `sqlite3` gem, otherwise you'll get some confounding error
+  forget the `sqlite3` gem, otherwise you'll get some confusing error
   messages.  
 
 * For **encrypting user data** (i.e., to preserve data confidentiality), you'll

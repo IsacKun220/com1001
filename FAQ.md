@@ -15,7 +15,7 @@ If your issue doesn't seem to appear on the page, check "[How to Ask
 Questions]()" first, before asking a question. If you think an issue needs to be
 added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 
-## 1. How to Ask Questions (Or Find Your Own Answers)
+## 1. How to Ask Questions (Or, How to Find Your Own Answers)
 
 I don't believe that there are any stupid questions, but there are *lazy* ones.
 It's not that lazy questions are annoying, because the answer is obvious, or
@@ -25,46 +25,48 @@ yourself. This is not just about honing your skills in quickly finding the
 information you need, but also how to resolve problems and debug issues with
 code yourself. 
 
-This section is not just about how to go about asking questions, but how to try
-to find your own answers in the first instance.  
+Before asking a question, try to find the answer yourself. Finding your own
+answers is an important skill that will be invaluable in the rest of your degree
+and your future career. So start to develop it now! 
 
-### My problem/question is not listed in this FAQ. What should I do?
+### Finding Your Own Answers 
 
-1. For questions about the assignment, check the [Assignment
-  FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
-  on Blackboard.
+Here are some tips.
 
-2. **Try to find the answer yourself**. This is an important skill that will be
-   invaluable in the rest of your degree and your future career, so start to
-   develop it now! Here are some tips:
+1. *Check the lecture slides*. There may be a slide or an example that you
+   missed that already explains something you wanted to know about or
+   demonstrates some code similar to what you want to do.
 
-  * *Check the lecture slides*. There may be a slide or an example that you
-    missed that already explains something you wanted to know about or
-    demonstrates some code similar to what you want to do.
+2. *Check the FAQs* (including this one). For questions about the assignment,
+   check the [Assignment
+   FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
+   on Blackboard. To save time reading through the entire FAQ, use the "Find"
+   feature in your browser to search for certain words appearing on the page to
+   do with your query (e.g. "Git", "Capybara", etc.)
 
-  * *Check the discussion forums on Blackboard* to see if your question has
-    already been answered. If it hasn't, don't post a question just yet. There
-    are more steps to try first.
+3. *Check the discussion forums on Blackboard* to see if your question has
+    already been answered. If it hasn't, don't post your own question just yet.
+    There are more steps to try first.
 
-  * *Read the documentation*. Your question may be answered by the documentation
-  for [Sinatra](http://sinatrarb.com/documentation.html),
-  [SQLite](https://www.sqlite.org/docs.html) (see also [SQLite's SQL
-  docs](https://www.sqlite.org/lang.html)),
-  [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also
-  [Sequel's GitHub page](https://github.com/jeremyevans/sequel), which has lots
-  of handy examples), [RSpec](https://relishapp.com/rspec), and
-  [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see also
-  the handy [cheat sheet](https://devhints.io/capybara)).
+4. *Read the documentation*. Your question may be answered by the documentation
+   for [Sinatra](http://sinatrarb.com/documentation.html),
+   [SQLite](https://www.sqlite.org/docs.html) (see also [SQLite's SQL
+   docs](https://www.sqlite.org/lang.html)),
+   [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also
+   [Sequel's GitHub page](https://github.com/jeremyevans/sequel), which has lots
+   of handy examples), [RSpec](https://relishapp.com/rspec), and
+   [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see
+   also the handy [cheat sheet](https://devhints.io/capybara)).
 
-  * *Use Google*. If you're unsure how to do this, or want to be more effective
-  at using Google to find answers to programming questions, watch this video –
-  "[Art of Googling as a
-  Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips.
-  It's Windows and Python-centric, but the principles apply to any programming
-  language on any platform – and pretty much anything technical.
+5. *Use Google*. If you're unsure how to do this, or want to be more effective
+   at using Google to find answers to programming questions, watch this video –
+   "[Art of Googling as a
+   Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips.
+   It's Windows and Python-centric, but the principles apply to any programming
+   language on any platform – and pretty much anything technical.
 
-3. **If the above all fails, you can ask a question.** See the next section on
-   how to go about doing this.
+**If the above all fails, you can ask a question.** See the next section on
+how to go about doing this.
 
 ### How Do I Go About Asking Questions?
 

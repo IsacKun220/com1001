@@ -179,7 +179,7 @@ keep stopping and restarting the web server each time you make a change to your
 project.
 
 **CSS**. If the problem is rather to do with your web application's
-presentation, and specifically your CSS seemingly not updating, check that your
+presentation, and specifically your CSS seemingly not updating, ensure that your
 browser is not caching your CSS files (i.e., using a stored, out of date copy,
 rather than a fresh version from your web application).
 

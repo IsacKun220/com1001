@@ -67,9 +67,9 @@ these steps:
   own, so they may not respond immediately.
 
 * **If your demonstrator cannot help you**, *post a question in the appropriate
-  forum in the [Discussion
+  forum in the* [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
-  on Blackboard*. 
+  *on Blackboard*. 
   
   *Don't post large chunks of your project's code in the forum*. If your problem
   only involves one or two lines of code, go ahead and post them. But if your
@@ -78,10 +78,10 @@ these steps:
   repository. We can then clone your code and try to replicate the issue
   ourselves. 
 
-* Please don't email staff about technical issues directly. Although staff email
-  addresses are listed on Blackboard, they're only there as as a *last resort*.
-  It is highly unlikely that you won't get a response using one of the methods
-  above.
+* **Please don't email staff about technical issues directly.** Although staff
+  email addresses are listed on Blackboard, they're only there as as a *last
+  resort*. It is highly unlikely that you won't get a response using one of the
+  methods above.
 
 Naturally, when asking a question, help us to help you by including as much
 relevant information as possible. Screen shots are fine, but don't just post

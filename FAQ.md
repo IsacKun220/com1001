@@ -19,12 +19,11 @@ added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 ## 1. How to Ask Questions (Or, How to Find Your Own Answers)
 
 I don't believe that there are stupid questions, but there are definitely *lazy*
-ones. It's not that lazy questions are annoying for academic staff – because we
-think the answer is obvious, or because maybe you weren't paying attention in
-class – it's because you're actually denying yourself a learning opportunity by
-not putting in the effort to find the answer yourself. This is not just about
-honing your skills in quickly finding the information you need, but also how to
-resolve problems and debug issues with code yourself. 
+ones. It's not that lazy questions are annoying – that's not the issue here –
+it's that you're actually denying yourself a learning opportunity by not putting
+in the effort to find the answer yourself. This is not just about honing your
+skills in quickly finding the information you need, but also how to resolve
+problems and debug issues with code yourself. 
 
 Before asking a question, try to find the answer yourself. Finding your own
 answers is an important skill that will be invaluable in the rest of your

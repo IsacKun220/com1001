@@ -93,7 +93,7 @@ these steps:
   ourselves. 
 
 * **Please don't email staff about technical issues directly.** Although staff
-  email addresses are listed on Blackboard, they're only there as as a *last
+  email addresses are listed on Blackboard, they're only there as a *last
   resort*. It is highly unlikely that you won't get a response using one of the
   methods above.
 
@@ -167,7 +167,7 @@ If it's for your own project, you should write a `Gemfile` and use that to run
 ### I can't see the changes I made to my Sinatra application.
 
 You have to stop (go to the terminal window and press "control" and "c") and
-then restart the webserver (triggered by the `sinatra` command you used to start
+then restart the web server (triggered by the `sinatra` command you used to start
 your application) each time you change any Ruby code in it (an exception is
 `.erb` files, changes for which can be seen without stopping and restarting).
 
@@ -176,7 +176,7 @@ using `sinatra/reloader`, as I showed you in the [Sinatra
 Basics](slides/1-3-sinatra-basics.pdf) lecture (see the last slide). Using
 `sinatra/reloader` means that Sinatra will listen out for changes to your Ruby
 files and reload them when you make changes, meaning that you do not have to
-keep stopping and restarting the webserver each time you make a change to your
+keep stopping and restarting the web server each time you make a change to your
 project.
 
 ### Our team project works for my teammates but crashes with an error on my Codio box.

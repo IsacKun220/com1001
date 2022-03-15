@@ -5,7 +5,7 @@ one section, so ensure you've properly checked if you don't think your question
 is answered (search the text of the page using the "find" option, which is under
 the "edit" menu on most browsers).
 
-1. [How to Ask Questions](#1-how-to-ask-questions) 
+1. [How to Ask Questions](#1-how-to-ask-questions-or-how-to-find-your-own-answers) 
 2. [Problems Running Project or Example
    Code](#2-problems-running-project-or-example-code) 
 3. [Problems with Git](#3-problems-with-git) 

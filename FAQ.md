@@ -262,7 +262,7 @@ Other possible reasons:
   the possibilities, so check you have done all of the above first. However, it
   does happen from time to time, so if you're still experiencing problems, this
   is one of the few occasions where you can [send me – Phil McMinn – an
-  email](mailto:p.mcminn@sheffield.ac.uk). Make sure you that you include your
+  email](mailto:p.mcminn@sheffield.ac.uk). Make sure that you include your
   Sheffield computer account username in the body of the email.
 
 ## 4. Getting the Most Out of Codio

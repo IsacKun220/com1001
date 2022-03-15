@@ -49,8 +49,8 @@ added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
   at using Google to find answers to programming questions, watch this video –
   "[Art of Googling as a
   Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips.
-  It's Python-centric, but the principles apply to any programming language –
-  and pretty much anything technical.
+  It's Windows and Python-centric, but the principles apply to any programming
+  language on any platform – and pretty much anything technical.
 
 3. **If the above all fails, you can ask a question.** See the next section on
    how to go about doing this.

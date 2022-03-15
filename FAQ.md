@@ -30,7 +30,7 @@ Before asking a question, try to find the answer yourself. Finding your own
 answers is an important skill that will be invaluable in the rest of your
 degree, and also your future career. So start to develop it now! 
 
-### Finding Your Own Answers: Some Tups 
+### Finding Your Own Answers: Some Tips 
 
 1. *Check the lecture slides*. Seems obvious. But you'd be surprised how many
    questions we get that are answered by a lecture slide that covered what you

@@ -101,7 +101,7 @@ relevant information as possible. Screen shots are fine, but don't just post
 these without any context. If you don't provide all the information needed, we
 won't be able to resolve the issue.
 
-## 2. Problems Running Project or Example Code 
+## 2. Problems Running Code 
 
 ### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
@@ -241,6 +241,15 @@ all of these, so don't worry about the ones you don't recognise (yet):
 Note that some of these gems may already be installed on a fresh Codio box. It's
 good practice to include them in your Gemfile regardless for
 development/deployment environments where they aren't.
+
+### When testing, my application seems to behave differently with Capybara compared to when it's being used for real 
+
+This is often to do with differences between the "test" database and the
+"production" database. If certain data is not present in the test database, the
+application may behave differently. If you're experiencing some differing
+behaviour, the first thing you can check is the log files produced by Sequel.
+Check the queries are the same when the application is being run in "production"
+mode compared to when it is being tested.
 
 ## 3. Problems with Git
 

@@ -178,10 +178,13 @@ files and reload them when you make changes, meaning that you do not have to
 keep stopping and restarting the web server each time you make a change to your
 project.
 
-**CSS**. If the problem is rather to do with your web application's
-presentation, and specifically your CSS seemingly not updating, ensure that your
-browser is not caching your CSS files (i.e., using a stored, out of date copy,
-rather than a fresh version from your web application).
+Note that you don't need to restart the web server if you only made changes to
+view files. 
+
+### I can't see the changes I made to my CSS / my CSS is not updating. 
+
+Ensure that your browser is not caching your CSS files (i.e., using a stored,
+out of date copy, rather than a fresh version from your web application).
 
 Clear out your browser cache, or switch off caching altogether. Google how to do
 this for the browser you're using.

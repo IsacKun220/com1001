@@ -15,7 +15,18 @@ If your issue doesn't seem to appear on the page, check "[How to Ask
 Questions]()" first, before asking a question. If you think an issue needs to be
 added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 
-## 1. How to Ask Questions
+## 1. How to Ask Questions (Or Find Your Own Answers)
+
+I don't believe that there are any stupid questions, but there are *lazy* ones.
+It's not that lazy questions are annoying, because the answer is obvious, or
+because you weren't paying attention, it's usually that you're actually denying
+yourself a learning opportunity by not putting in the effort to find the answer
+yourself. This is not just about honing your skills in quickly finding the
+information you need, but also how to resolve problems and debug issues with
+code yourself. 
+
+This section is not just about how to go about asking questions, but how to try
+to find your own answers in the first instance.  
 
 ### My problem/question is not listed in this FAQ. What should I do?
 

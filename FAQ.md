@@ -145,7 +145,7 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the
 material from the Autumn Semester (in particular, see Unit 7: Ruby Gems). You
 can also try Google of course for more information.
 
-### When I run my web application or an example, Codio display a "401 Authorization Required" message instead of the proper web page
+### When I run my web application or an example, Codio display a "401 Authorization Required" message instead of the proper web page.
 
 This is because Codio doesn't think you're logged into Codio on the web browser
 you're trying to use. Open a tab and check you are indeed logged in. If this
@@ -157,7 +157,7 @@ so contact me (or try Codio support). The university's machines should always
 work, so this facility should always be available to you, even if you cannot run
 examples with Codio from your own machine. 
 
-### When I run my web application or an example, Codio display a "502 Bad Gateway" error instead of the proper web page
+### When I run my web application or an example, Codio display a "502 Bad Gateway" error instead of the proper web page.
 
 This is likely because you're not using the `sinatra` command to run your code
 and using the `ruby` command instead. Make sure you're using the `sinatra`
@@ -250,7 +250,7 @@ Note that some of these gems may already be installed on a fresh Codio box. It's
 good practice to include them in your Gemfile regardless for
 development/deployment environments where they aren't.
 
-### When testing, my application seems to behave differently with Capybara compared to when it's being used for real 
+### When testing, my application seems to behave differently with Capybara compared to when it's being used for real. 
 
 This is often to do with differences between the "test" database and the
 "production" database. If certain data is not present in the test database, the
@@ -258,7 +258,6 @@ application may behave differently. If you're experiencing some differing
 behaviour, the first thing you can check is the log files produced by Sequel.
 Check the queries are the same when the application is being run in "production"
 mode compared to when it is being tested.
-
 
 
 ## 3. Problems with Git

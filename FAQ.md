@@ -12,14 +12,17 @@ the "edit" menu on most browsers).
 4. [Getting the Most Out of Codio](#4-getting-the-most-out-of-codio)
 
 If your issue doesn't seem to appear on the page, check "[How to Ask
-   Questions](#questions)" first, before asking a question. If you think an issue needs to be
-added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
+Questions](#questions)" first, before asking a question. If you think an issue
+needs to be added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 
 <a id="questions"></a>
+### What this FAQ covers
 
-This FAQ covers technical issues. If you're experiencing a team issue, or have a question about the team project, check out the check the [Assignment
-   FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
-   on Blackboard. If this does not answer your question, you should contact your supervisor, or wait until your next meeting with them.
+This FAQ covers technical issues only. **If you're experiencing a team issue, or
+have a question about the team project**, check out the check the [Assignment
+FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
+on Blackboard. If this does not answer your question, you should contact your
+supervisor, or wait until your next meeting with them.
 
 ## 1. How to Ask Questions (Or, How to Find Your Own Answers) 
 
@@ -42,8 +45,7 @@ degree, and also your future career. So start to develop it now!
    already explains something you wanted to know about or demonstrates some code
    similar to what you want to do. Look there first. 
 
-2. *Check this FAQ*.
-   To save time reading through the entire FAQ, use the "Find"
+2. *Check this FAQ*. To save time reading through the entire FAQ, use the "Find"
    feature in your browser to search for certain words appearing on the page to
    do with your query (e.g. "Git", "Capybara", etc.)
 
@@ -68,8 +70,8 @@ degree, and also your future career. So start to develop it now!
    It's a bit Python-centric, but the principles apply to any programming
    language on any platform – and pretty much anything technical.
 
-**If all of the above fails, you can ask a question.** See the next section on how
-to go about doing this.
+**If all of the above fails, you can ask a question.** See the next section on
+how to go about doing this.
 
 ### How Do I Go About Asking Questions?
 
@@ -77,10 +79,10 @@ To ensure you get a timely answer that resolves your problem, ensure you follow
 these steps:
 
 * **For specific technical questions about your team project**, ask your
-  demonstrator. You can ask in the lab, or via Slack if the issue arises
-  between labs and cannot wait until the next one. Bear in mind that your
-  demonstrators are students too. They have assignments and deadlines of their
-  own, so they may not respond immediately.
+  demonstrator. You can ask in the lab, or via Slack if the issue arises between
+  labs and cannot wait until the next one. Bear in mind that your demonstrators
+  are students too. They have assignments and deadlines of their own, so they
+  may not respond immediately.
 
 * **If your demonstrator cannot help you**, post a question in the appropriate
   forum in the [Discussion
@@ -169,9 +171,9 @@ If it's for your own project, you should write a `Gemfile` and use that to run
 ### I can't see the changes I made to my Sinatra application.
 
 You have to stop (go to the terminal window and press "control" and "c") and
-then restart the web server (triggered by the `sinatra` command you used to start
-your application) each time you change any Ruby code in it (an exception is
-`.erb` files, changes for which can be seen without stopping and restarting).
+then restart the web server (triggered by the `sinatra` command you used to
+start your application) each time you change any Ruby code in it (an exception
+is `.erb` files, changes for which can be seen without stopping and restarting).
 
 This is a tedious thing to have to keep doing during development! So I recommend
 using `sinatra/reloader`, as I showed you in the [Sinatra
@@ -228,8 +230,7 @@ all of these, so don't worry about the ones you don't recognise (yet):
   coding standards and style checking). 
 
 * For the **database**, you'll need at least `sequel` and `sqlite3`. Don't
-  forget the `sqlite3` gem, otherwise you'll get some confusing error
-  messages.  
+  forget the `sqlite3` gem, otherwise you'll get some confusing error messages.  
 
 * For **encrypting user data** (i.e., to preserve data confidentiality), you'll
   need `openssl`.

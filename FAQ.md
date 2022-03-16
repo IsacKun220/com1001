@@ -89,7 +89,7 @@ these steps:
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
   *on Blackboard. 
   
-  However, don't post large chunks of your project's code in the forum. If your
+  However, *don't post large chunks of your project's code in the forum*. If your
   problem only involves one or two lines of code that aren't important, that is
   fine; or, you might be able to obfuscate the code to demonstrate the same
   problem, but without using code directly lifted from your project.

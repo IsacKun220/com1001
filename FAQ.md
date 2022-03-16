@@ -45,16 +45,16 @@ degree, and also your future career. So start to develop it now!
    already explains something you wanted to know about or demonstrates some code
    similar to what you want to do. Look there first. 
 
-2. **Check this FAQ**. To save time reading through the entire FAQ, use the "Find"
-   feature in your browser to search for certain words appearing on the page to
-   do with your query (e.g. "Git", "Capybara", etc.)
+2. **Check this FAQ**. To save time reading through the entire FAQ, use the
+   "Find" feature in your browser to search for certain words appearing on the
+   page to do with your query (e.g. "Git", "Capybara", etc.)
 
 3. **Check the discussion forums on Blackboard** to see if your question has
     already been answered. If it hasn't, don't post your own question just yet.
     There are more steps to try first.
 
-4. **Check the docs**. Your question may be answered by the documentation
-   for [Sinatra](http://sinatrarb.com/documentation.html),
+4. **Check the docs**. Your question may be answered by the documentation for
+   [Sinatra](http://sinatrarb.com/documentation.html),
    [SQLite](https://www.sqlite.org/docs.html) (see also [SQLite's SQL
    docs](https://www.sqlite.org/lang.html)),
    [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also
@@ -63,8 +63,8 @@ degree, and also your future career. So start to develop it now!
    [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see
    also the handy [cheat sheet](https://devhints.io/capybara)).
 
-5. **Use Google**. If you're unsure how to go about googling technical issues, or
-   want to be more effective at using Google to find answers to programming
+5. **Use Google**. If you're unsure how to go about googling technical issues,
+   or want to be more effective at using Google to find answers to programming
    questions, watch this video – "[Art of Googling as a
    Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips.
    It's a bit Python-centric, but the principles apply to any programming
@@ -87,12 +87,12 @@ these steps:
 * **If your demonstrator cannot help you**, post a question in the appropriate
   forum in the [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
-  *on Blackboard. 
+  on Blackboard. 
   
-  However, *don't post large chunks of your project's code in the forum*. If your
-  problem only involves one or two lines of code that aren't important, that is
-  fine; or, you might be able to obfuscate the code to demonstrate the same
-  problem, but without using code directly lifted from your project.
+  However, *don't post large chunks of your project's code in the forum*. If
+  your problem only involves one or two lines of code that aren't important,
+  that is fine; or, you might be able to obfuscate the code to demonstrate the
+  same problem, but without using code directly lifted from your project.
   
   If your problem involves large segments or involves the whole project, then
   leave your team number and ensure you've pushed everything to the main branch

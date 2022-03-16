@@ -39,21 +39,21 @@ degree, and also your future career. So start to develop it now!
 
 ### Finding Your Own Answers: Some Tips 
 
-1. *Check the lecture slides*. Seems obvious. But you'd be surprised how many
+1. **Check the lecture slides**. Seems obvious. But you'd be surprised how many
    questions we get that are answered by a lecture slide that covered what you
    wanted to know. There may be a slide or an example that you missed that
    already explains something you wanted to know about or demonstrates some code
    similar to what you want to do. Look there first. 
 
-2. *Check this FAQ*. To save time reading through the entire FAQ, use the "Find"
+2. **Check this FAQ**. To save time reading through the entire FAQ, use the "Find"
    feature in your browser to search for certain words appearing on the page to
    do with your query (e.g. "Git", "Capybara", etc.)
 
-3. *Check the discussion forums on Blackboard* to see if your question has
+3. **Check the discussion forums on Blackboard** to see if your question has
     already been answered. If it hasn't, don't post your own question just yet.
     There are more steps to try first.
 
-4. *Read the documentation*. Your question may be answered by the documentation
+4. **Check the docs**. Your question may be answered by the documentation
    for [Sinatra](http://sinatrarb.com/documentation.html),
    [SQLite](https://www.sqlite.org/docs.html) (see also [SQLite's SQL
    docs](https://www.sqlite.org/lang.html)),
@@ -63,7 +63,7 @@ degree, and also your future career. So start to develop it now!
    [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see
    also the handy [cheat sheet](https://devhints.io/capybara)).
 
-5. *Use Google*. If you're unsure how to go about googling technical issues, or
+5. **Use Google**. If you're unsure how to go about googling technical issues, or
    want to be more effective at using Google to find answers to programming
    questions, watch this video – "[Art of Googling as a
    Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips.

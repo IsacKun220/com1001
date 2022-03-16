@@ -15,7 +15,8 @@ If your issue doesn't seem to appear on the page, check "[How to Ask
 Questions]()" first, before asking a question. If you think an issue needs to be
 added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 
-## 1. How to Ask Questions (Or, How to Find Your Own Answers)
+<a id="questions"></a>
+## 1. How to Ask Questions (Or, How to Find Your Own Answers) 
 
 I don't believe that there are stupid questions, but there are definitely *lazy*
 ones. It's not that lazy questions are annoying – that's not the issue here –

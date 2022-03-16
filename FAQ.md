@@ -20,7 +20,7 @@ needs to be added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 
 This FAQ covers technical issues only. **If you're experiencing a team issue, or
 have a question about the team project**, check out the check the [Assignment
-FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
+FAQ](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5820338_1&course_id=_96428_1&mode=reset)
 on Blackboard. If this does not answer your question, you should contact your
 supervisor, or wait until your next meeting with them.
 

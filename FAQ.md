@@ -12,10 +12,15 @@ the "edit" menu on most browsers).
 4. [Getting the Most Out of Codio](#4-getting-the-most-out-of-codio)
 
 If your issue doesn't seem to appear on the page, check "[How to Ask
-Questions]()" first, before asking a question. If you think an issue needs to be
+   Questions](#questions)" first, before asking a question. If you think an issue needs to be
 added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 
 <a id="questions"></a>
+
+This FAQ covers technical issues. If you're experiencing a team issue, or have a question about the team project, check out the check the [Assignment
+   FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
+   on Blackboard. If this does not answer your question, you should contact your supervisor, or wait until your next meeting with them.
+
 ## 1. How to Ask Questions (Or, How to Find Your Own Answers) 
 
 I don't believe that there are stupid questions, but there are definitely *lazy*
@@ -37,10 +42,8 @@ degree, and also your future career. So start to develop it now!
    already explains something you wanted to know about or demonstrates some code
    similar to what you want to do. Look there first. 
 
-2. *Check the FAQs* (including this one). For questions about the assignment,
-   check the [Assignment
-   FAQ](https://vle.shef.ac.uk/webapps/blackboard/content/listContent.jsp?course_id=_96428_1&content_id=_5798808_1&mode=reset)
-   on Blackboard. To save time reading through the entire FAQ, use the "Find"
+2. *Check this FAQ*.
+   To save time reading through the entire FAQ, use the "Find"
    feature in your browser to search for certain words appearing on the page to
    do with your query (e.g. "Git", "Capybara", etc.)
 
@@ -73,16 +76,16 @@ to go about doing this.
 To ensure you get a timely answer that resolves your problem, ensure you follow
 these steps:
 
-* **For specific technical questions about your team project**, *ask your
-  demonstrator*. You can ask in the lab, or via Slack if the issue arises
+* **For specific technical questions about your team project**, ask your
+  demonstrator. You can ask in the lab, or via Slack if the issue arises
   between labs and cannot wait until the next one. Bear in mind that your
   demonstrators are students too. They have assignments and deadlines of their
   own, so they may not respond immediately.
 
-* **If your demonstrator cannot help you**, *post a question in the appropriate
-  forum in the* [Discussion
+* **If your demonstrator cannot help you**, post a question in the appropriate
+  forum in the [Discussion
   Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
-  *on Blackboard*. 
+  *on Blackboard. 
   
   *Don't post large chunks of your project's code in the forum*. If your problem
   only involves one or two lines of code, go ahead and post them. But if your
